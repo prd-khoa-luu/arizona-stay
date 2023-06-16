@@ -15,9 +15,16 @@
 
 ## Means of transportation
 * Car (Uber/Lift)
+  * Down load the app and put in your credit card info to use
 * Bike
+  * Sponsored by Paradox 🎉
+  * Ride in bike lanes or on sidewalks
+  * At crosswalks, follow the same rules for pedestrians (see Walking below)
 * Scooter (Spin)
+  * Down load the app and put in your credit card info to use
 * Walking
+  * Use push-to-walk button: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
+  * Also, cars will wait for you to cross roads
 
 ## Establishments
 
