@@ -20,8 +20,10 @@
   * Sponsored by Paradox 🎉
   * Ride in bike lanes or on sidewalks
   * At crosswalks, follow the same rules for pedestrians (see Walking below)
-* Scooter (Spin)
+* Scooter (Spin/Bird)
   * Down load the app and put in your credit card info to use
+  * You can put your phone in the phone holder
+  * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a6834697-bc3c-4373-b785-ac6d4edd301a)
 * Walking
   * Use push-to-walk button: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
   * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
