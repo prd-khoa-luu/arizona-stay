@@ -2,14 +2,32 @@
 
 ## Accommodation
 * The Airbnb house
-  * Trash and recycling pickup time
+  * 3 bedrooms and 2 bathrooms
+  * 4 minutes to the office
+  * Suitable for long-term stays
+  * Trash and recycling pickup times
+    * Trash (black bin): Monday mornings => take out the trash on Sunday nights
+    * Recycling (pink bin): Friday mornings => take out the trash on Thursday nights
 * The Canopy hotel
+  * On-site restaurant
+  * 6 minutes to the office
+  * Suitable for short-term stays
 
 ## Means of transportation
 * Car (Uber/Lift)
+  * Down load the app and put in your credit card info to use
 * Bike
-* Scooter (Spin)
+  * Sponsored by Paradox 🎉
+  * Ride in bike lanes or on sidewalks
+  * At crosswalks, follow the same rules for pedestrians (see Walking below)
+* Scooter (Spin/Bird)
+  * Down load the app and put in your credit card info to use
+  * You can put your phone in the phone holder
+  * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a6834697-bc3c-4373-b785-ac6d4edd301a)
 * Walking
+  * Use push-to-walk button: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
+  * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
+  * Jaywalking is prohibited, but 🤷
 
 ## Establishments
 
@@ -29,13 +47,28 @@
   * Menu
   * Price
   * Reviews: The honey bee pizza is the best!
+* Lo-Lo's Chicken and Waffles
+  * Location: [3133 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/if1HJkyG72Mm9aW17)
+  * Menu
+  * Price
+  * Reviews: Avoid two-waffle dishes, otherwise you will have to ask for some boxes.
+* Phở Cao
+  * Location: [7436 E McDowell Rd, Scottsdale, AZ 85257, United States](https://goo.gl/maps/jcNXHixDSkjCHpUa9)
+  * Menu
+  * Price
+  * Reviews
 
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
-* Walmart
+* Walmart: everything!
 * Albertson
+* Walgreens
 
 ## Activities
+* Marvix games
+  * F1 racing, laser tag, bowling, billiards, arcade
+  * https://www.mavrix.com/game/
+  * There will be company outings to Marvix, so don't go there on your own!
 * Biking/running
 * Hiking - Papago Park/Hole in the rock
 * Hiking - Camelback
@@ -44,6 +77,9 @@
   * Fee: 0
   * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
   * Note: remember to bring lots of water
+* Shooting guns
+  * Yeah, first you need guns, and then bullets, and then a safe place to shoot
+  * Or you can try [Shooting Ranges in Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
 
 ## Tourist attractions
 * Odysea Aquarium
