@@ -47,11 +47,22 @@
   * Menu
   * Price
   * Reviews: The honey bee pizza is the best!
+* Lo-Lo's Chicken and Waffles
+  * Location: [3133 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/if1HJkyG72Mm9aW17)
+  * Menu
+  * Price
+  * Reviews: Avoid two-waffle dishes, otherwise you will have to ask for some boxes.
+* Phở Cao
+  * Location: [7436 E McDowell Rd, Scottsdale, AZ 85257, United States](https://goo.gl/maps/jcNXHixDSkjCHpUa9)
+  * Menu
+  * Price
+  * Reviews
 
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
-* Walmart
+* Walmart: everything!
 * Albertson
+* Walgreens
 
 ## Activities
 * Biking/running
