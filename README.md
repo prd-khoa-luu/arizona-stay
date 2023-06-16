@@ -2,8 +2,16 @@
 
 ## Accommodation
 * The Airbnb house
-  * Trash and recycling pickup time
+  * 3 bedrooms and 2 bathrooms
+  * 4 minutes to the office
+  * Suitable for long-term stays
+  * Trash and recycling pickup times
+    * Trash (black bin): Monday mornings => take out the trash on Sunday nights
+    * Recycling (pink bin): Friday mornings => take out the trash on Thursday nights
 * The Canopy hotel
+  * On-site restaurant
+  * 6 minutes to the office
+  * Suitable for short-term stays
 
 ## Means of transportation
 * Car (Uber/Lift)
