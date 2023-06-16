@@ -65,6 +65,10 @@
 * Walgreens
 
 ## Activities
+* Marvix games
+  * F1 racing, laser tag, bowling, billiards, arcade
+  * https://www.mavrix.com/game/
+  * There will be company outings to Marvix, so don't go there on your own!
 * Biking/running
 * Hiking - Papago Park/Hole in the rock
 * Hiking - Camelback
@@ -73,6 +77,9 @@
   * Fee: 0
   * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
   * Note: remember to bring lots of water
+* Shooting guns
+  * Yeah, first you need guns, and then bullets, and then a safe place to shoot
+  * Or you can try [Shooting Ranges in Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
 
 ## Tourist attractions
 * Odysea Aquarium
