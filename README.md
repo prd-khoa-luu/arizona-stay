@@ -24,7 +24,8 @@
   * Down load the app and put in your credit card info to use
 * Walking
   * Use push-to-walk button: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
-  * Also, cars will wait for you to cross roads
+  * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
+  * Jaywalking is prohibited, but 🤷
 
 ## Establishments
 
