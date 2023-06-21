@@ -1,4 +1,4 @@
-# Staying in Arizona 🌵
+# A guide to staying in Arizona 🌵
 
 ## Accommodation
 * The Airbnb house
@@ -15,17 +15,17 @@
 
 ## Means of transportation
 * Car (Uber/Lift)
-  * Down load the app and put in your credit card info to use
+  * Download the app and put in your credit card info to use
 * Bike
   * Sponsored by Paradox 🎉
   * Ride in bike lanes or on sidewalks
   * At crosswalks, follow the same rules for pedestrians (see Walking below)
 * Scooter (Spin/Bird)
-  * Down load the app and put in your credit card info to use
+  * Download the app and put in your credit card info to use
   * You can put your phone in the phone holder
   * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a6834697-bc3c-4373-b785-ac6d4edd301a)
 * Walking
-  * Use push-to-walk button: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
+  * Use push-to-walk buttons: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
   * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
   * Jaywalking is prohibited, but 🤷
 
@@ -80,18 +80,23 @@
 * Shooting guns
   * Yeah, first you need guns, and then bullets, and then a safe place to shoot
   * Or you can try [Shooting Ranges in Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
+  * Fee: $$$
 
 ## Tourist attractions
 * Odysea Aquarium
-  * Location: [OdySea Aquarium, East Vía de Ventura, Scottsdale, AZ, USA](https://goo.gl/maps/GxfnHmrQ8tnCD47n6)
+  * Location: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, United States](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
   * Fee: $
+  * Tickets can be booked online - https://www.odyseaaquarium.com/
 * Phoenix Zoo
+  * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
+  * Fee: $
+  * Tickets can be booked online - https://www.phoenixzoo.org/visit/
 * Sedona
 * Grand Canyon
 
 ## Customs/traditions/practices
 * Tipping
-  * Standard: 15-25%
+  * Standard (for restaurants): 15-25%
   * Counter service: 0-5%
   * When you pay with a credit card, the process goes like this
     * You ask the server for the check (the bill in BrE) - see [Basic conversation](#basic-conversation)
@@ -111,6 +116,9 @@
   * Definition: the activity of visiting several bars in succession, having a drink in each
   * Fun, but not recommended 😺
 * Online shopping and delivery
+  * Packages are usually dropped off at the front door and a proof-of-delivery photo may be sent to you via the app
+  * Some packages may be hidden in the carport (on the left of the house, behind the trash bins)
+  * Packages with high value will require identification
 
 ## Basic conversation
 * Asking for checks/receipts
