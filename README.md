@@ -91,6 +91,8 @@
   * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
   * Fee: $
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
+  * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873) :flushed:
+
 * Sedona
 * Grand Canyon
 
