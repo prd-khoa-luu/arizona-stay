@@ -69,14 +69,18 @@
   * F1 racing, laser tag, bowling, billiards, arcade
   * https://www.mavrix.com/game/
   * There will be company outings to Marvix, so don't go there on your own!
+
 * Biking/running
+
 * Hiking - Papago Park/Hole in the rock
+
 * Hiking - Camelback
   * Location
   * Time: Early morning (5 AM for viewing sunrise)
   * Fee: 0
   * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
   * Note: remember to bring lots of water
+
 * Shooting guns
   * Yeah, first you need guns, and then bullets, and then a safe place to shoot
   * Or you can try [Shooting Ranges in Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
@@ -87,10 +91,14 @@
   * Location: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, United States](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
   * Fee: $
   * Tickets can be booked online - https://www.odyseaaquarium.com/
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/c0e6a866-1157-49e2-851a-c83ef9dde3d9" width="50%">
+
 * Phoenix Zoo
   * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
   * Fee: $
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
+  * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873) :flushed:
+
 * Sedona
 * Grand Canyon
 
