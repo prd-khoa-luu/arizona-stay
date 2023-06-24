@@ -32,31 +32,44 @@
 ## Establishments
 
 ### Restaurants
+* Pitch
+  * Location: [6350 E Thomas Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/AwqDNMGFrp3HNVPx9)
+  * Menu: chicken wings (sweet & spicy rosemary, smoked peach BBQ), burgers, sanwiches, pizzas (pepperoni, Thai pie)
+  * Price: $
+  * Reviews
+    * Do NOT order the Buffalo Wings (or do it and be prepared to experience the ultimate sourness of a dish)
 * Saigon Bowl
   * Location: [8123 E Roosevelt St, Scottsdale, AZ 85257, United States](https://goo.gl/maps/WFbGoJL4FCKXEXPGA)
-  * Menu
-  * Price
+  * Menu: Vietnamese dishes
+  * Price: $
   * Reviews
 * RA Sushi Bar Restaurant
   * Location: [3815 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/yfnhbSLSyEg52vo6A)
-  * Menu
-  * Price
+  * Menu: Japanese dishes
+  * Price: $
   * Reviews
 * Craft 64 Scottsdale
   * Location: [6922 E Main St, Scottsdale, AZ 85251, United States](https://goo.gl/maps/gNyRt24Xii8XVxdW6)
-  * Menu
-  * Price
+  * Menu: Pizzas, Bruschetta (garlic cheese bread), Dolce (Tirasumi)
+  * Price: $
   * Reviews: The honey bee pizza is the best!
 * Lo-Lo's Chicken and Waffles
   * Location: [3133 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/if1HJkyG72Mm9aW17)
   * Menu
-  * Price
+  * Price: $
   * Reviews: Avoid two-waffle dishes, otherwise you will have to ask for some boxes.
 * Phở Cao
   * Location: [7436 E McDowell Rd, Scottsdale, AZ 85257, United States](https://goo.gl/maps/jcNXHixDSkjCHpUa9)
-  * Menu
-  * Price
+  * Menu: Vietnamese dishes
+  * Price: $
+  * Reviews: It could get really loud inside, if you don't like the music, just sit outside
+* Sizzle Korean Barbecue
+  * Location: [3720 N Scottsdale Rd #200, Scottsdale, AZ 85251, United States](https://goo.gl/maps/mLQaK1nGJADtpNim8)
+  * Menu: Korean dishes
+  * Price: $$
   * Reviews
+    * The waitstaff cooks your meal at your table, but you can ask to do it yourself
+    * The Spice paste cold noodle is very sour
 
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
