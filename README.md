@@ -8,6 +8,8 @@
   * Trash and recycling pickup times
     * Trash (black bin): Monday mornings => take out the trash on Sunday nights
     * Recycling (pink bin): Friday mornings => take out the trash on Thursday nights
+  * Smoke detectors / fire alarms
+    * If a smoke detector keeps going off, it is probably due to a battery issue => try 1/ resetting it; 2/ replacing the battery
 * The Canopy hotel
   * On-site restaurant
   * 6 minutes to the office
