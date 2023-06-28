@@ -8,6 +8,8 @@
   * Trash and recycling pickup times
     * Trash (black bin): Monday mornings => take out the trash on Sunday nights
     * Recycling (pink bin): Friday mornings => take out the trash on Thursday nights
+  * Smoke detectors / fire alarms
+    * If a smoke detector keeps going off, it is probably due to a battery issue => try 1/ resetting it; 2/ replacing the battery
 * The Canopy hotel
   * On-site restaurant
   * 6 minutes to the office
@@ -110,15 +112,20 @@
   * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
   * Fee: $
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
-  * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873) :flushed:
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="50%"> :flushed:
 
 * Sedona
+
 * Grand Canyon
 
 ## Customs/traditions/practices
 * Tipping
   * Standard (for restaurants): 15-25%
   * Counter service: 0-5%
+  * Automatic gratuities: 18% to 20% of the bill
+    * Often automatically added onto the bill for large parties, with more than 5 diners in the group
+    * You cannot refuse to pay an automatic gratuity since the payment is a service charge
+    * You can tip a few more dollars on top of that if the service is great
   * When you pay with a credit card, the process goes like this
     * You ask the server for the check (the bill in BrE) - see [Basic conversation](#basic-conversation)
     * You receive it, check the items, and put your card on it
