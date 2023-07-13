@@ -72,9 +72,18 @@
   * Reviews
     * The waitstaff cooks your meal at your table, but you can ask to do it yourself
     * The Spice paste cold noodle is very sour
+* Hello Vietnam Pho & Roll
+  * Location: [2922 N Hayden Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/WVuTRLf1135EM7Qa6)
+  * Menu: Vietnamese dishes
+  * Price: $
+  * Reviews
+    * If Phở Cao/Saigon Bowl is not your style, then try this one.
+    * [Cute Staff (Danang Bae)](https://github.com/prd-khoa-luu/arizona-stay/assets/43673927/0e8c7c11-c167-4649-b680-6a902e72d352)
+
 
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
+* AZ International Marketplace: Asian groceries/food
 * Walmart: everything!
 * Albertson
 * Walgreens
