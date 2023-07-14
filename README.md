@@ -129,6 +129,8 @@
 * Grand Canyon
 
 ## Customs/traditions/practices
+* Eating out
+  * In the US, it is generally expected that fast food restaurants offer free refills for soft drinks. This means that you can often refill your cup with your choice of beverage multiple times without additional charges.
 * Tipping
   * Standard (for restaurants): 15-25%
   * Counter service: 0-5%
