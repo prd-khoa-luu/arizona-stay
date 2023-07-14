@@ -79,6 +79,7 @@
   * Reviews
     * If Phở Cao/Saigon Bowl is not your style, then try this one.
     * [Cute Staff (Danang Bae)](https://github.com/prd-khoa-luu/arizona-stay/assets/43673927/0e8c7c11-c167-4649-b680-6a902e72d352)
+    * Last time I ate here, the pho was too salty I had to ask for some hot water 🙃 -- [@prd-khoa-luu](https://github.com/prd-khoa-luu)
 
 
 ### Grocery stores
