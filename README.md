@@ -124,6 +124,14 @@
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="50%"> :flushed:
 
+* Tempe Marketplace
+  * Location: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, United States](https://goo.gl/maps/jRm2TJf38BAqiARA9)
+  * Outdoor mall with national retailers, dining, live music on weekends & a play fountain for kids
+  * Main activities
+    * Shopping: clothes (Ross), electronics (Best Buy), cosmetics (SEPHORA),lotions & soaps (Bath & Body Works), books (Barnes & Noble)
+    * Dining
+    * Strolling (taking a walk and enjoying the surroundings)
+
 * Sedona
 
 * Grand Canyon
