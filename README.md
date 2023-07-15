@@ -80,6 +80,11 @@
     * If Phở Cao/Saigon Bowl is not your style, then try this one.
     * [Cute Staff (Danang Bae)](https://github.com/prd-khoa-luu/arizona-stay/assets/43673927/0e8c7c11-c167-4649-b680-6a902e72d352)
     * Last time I ate here, the pho was too salty I had to ask for some hot water 🙃 -- [@prd-khoa-luu](https://github.com/prd-khoa-luu)
+* HULA'S Modern Tiki Scottsdale
+  * Location: [7213 E 1st Ave, Scottsdale, AZ 85251, United States](https://goo.gl/maps/8qehYP7LmXVbdbiSA)
+  * Menu: American/Polynesian/Hawaiian dishes
+  * Price: $ - $$
+  * Reviews
 
 
 ### Grocery stores
@@ -152,6 +157,8 @@
   * Claim the right to ride shotgun by being the first person to call out "shotgun" when everyone is in view of the vehicle
 * Happy hour
   * "Cheers"
+  * The legal drinking age is 21 (which means you cannot buy, receive, possess, or consume alcohol before 21)
+  * It is likely that you will be asked to show your ID before buying beer
 * Barhopping
   * Definition: the activity of visiting several bars in succession, having a drink in each
   * Fun, but not recommended 😺
