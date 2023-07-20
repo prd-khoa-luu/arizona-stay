@@ -100,6 +100,12 @@
   * https://www.mavrix.com/game/
   * There will be company outings to Marvix, so don't go there on your own!
 
+* Bowling
+  * Locations
+    * Bowlero Old Town - [7300 E Thomas Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/XoZeyzo9CPUQhhyT6)
+    * Mavrix - [9139 Talking Stick Way, Scottsdale, AZ 85250, United States](https://goo.gl/maps/fuXHTCjnwHz1pN9D6)
+  * Fee: $$
+
 * Biking/running
 
 * Hiking - Papago Park/Hole in the rock
@@ -119,13 +125,13 @@
 ## Tourist attractions
 * Odysea Aquarium
   * Location: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, United States](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
-  * Fee: $
+  * Fee: $$
   * Tickets can be booked online - https://www.odyseaaquarium.com/
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/c0e6a866-1157-49e2-851a-c83ef9dde3d9" width="50%">
 
 * Phoenix Zoo
   * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
-  * Fee: $
+  * Fee: $$
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="50%"> :flushed:
 
