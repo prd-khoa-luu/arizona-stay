@@ -85,7 +85,13 @@
   * Menu: American/Polynesian/Hawaiian dishes
   * Price: $ - $$
   * Reviews
-
+* Schmooze
+  * Location: [4222 N Marshall Way, Scottsdale, AZ 85251, United States](https://goo.gl/maps/itDKT8iZkHccrvUK7)
+  * Menu: coffee drinks & cafe eats for breakfast & lunch
+  * Price: $
+  * Reviews
+    * Work-friendly => You can bring your laptop here
+    * Nice and cool garden
 
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
@@ -142,6 +148,10 @@
     * Shopping: clothes (Ross), electronics (Best Buy), cosmetics (SEPHORA),lotions & soaps (Bath & Body Works), books (Barnes & Noble)
     * Dining
     * Strolling (taking a walk and enjoying the surroundings)
+   
+* Old Town Scottsdale
+
+* Downtown Phoenix
 
 * Sedona
 
