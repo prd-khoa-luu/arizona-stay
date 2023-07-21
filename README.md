@@ -133,7 +133,7 @@
   * Location: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, United States](https://goo.gl/maps/jRm2TJf38BAqiARA9)
   * Outdoor mall with national retailers, dining, live music on weekends & a play fountain for kids
   * Main activities
-    * Shopping: clothes (Ross), electronics (Best Buy), cosmetics (SEPHORA),lotions & soaps (Bath & Body Works), books (Barnes & Noble)
+    * Shopping: clothes (Ross), electronics (Best Buy), cosmetics (SEPHORA), lotions & soaps (Bath & Body Works), books (Barnes & Noble)
     * Dining
     * Strolling (taking a walk and enjoying the surroundings)
 
@@ -144,6 +144,7 @@
 ## Customs/traditions/practices
 * Eating out
   * In the US, it is generally expected that fast food restaurants offer free refills for soft drinks. This means that you can often refill your cup with your choice of beverage multiple times without additional charges.
+  * When you enter a casual restaurant (like Applebee's, Olive Garden, or Chili's), a waiter/waitress may ask you "dine-in or takeout?" That means they are asking if you want to sit down and enjoy their meal on the premise ("dine in" or "eat in") or order their food to be packed and taken away to eat elsewhere ("takeout" or "takeaway" or "to go").
 * Tipping
   * Standard (for restaurants): 15-25%
   * Counter service: 0-5%
