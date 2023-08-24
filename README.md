@@ -16,8 +16,9 @@
   * Suitable for short-term stays
 
 ## Means of transportation
-* Car (Uber/Lift)
+* Car (Uber/Lift/Waymo)
   * Download the app and put in your credit card info to use
+  * Waymo always has the best prices compared to the rest
 * Bike
   * Sponsored by Paradox 🎉
   * Ride in bike lanes or on sidewalks
@@ -96,7 +97,7 @@
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
 * AZ International Marketplace: Asian groceries/food
-* Walmart: everything!
+* Walmart: everything! (You should book via the app instead of buying directly to save time and money on unnecessary trips)
 * Albertson
 * Walgreens
 
@@ -195,3 +196,12 @@
 ## Basic conversation
 * Asking for checks/receipts
   * Can I have the check/bill?
+
+## SOS
+* Damage/Lost passport:
+  * Ask Shelby for her assistance (contact hochieu@vietnamembassy.us)
+
+
+
+
+
