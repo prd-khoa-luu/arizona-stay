@@ -19,6 +19,8 @@
 * Car (Uber/Lift/Waymo)
   * Download the app and put in your credit card info to use
   * Waymo always has the best prices compared to the rest
+    * Google's self-driving car service
+    * Only available in some areas => Not very practical for your daily commute
 * Bike
   * Sponsored by Paradox 🎉
   * Ride in bike lanes or on sidewalks
@@ -198,7 +200,7 @@
   * Can I have the check/bill?
 
 ## SOS
-* Damage/Lost passport:
+* Passport damage/loss:
   * Ask Shelby for her assistance (contact hochieu@vietnamembassy.us)
 
 
