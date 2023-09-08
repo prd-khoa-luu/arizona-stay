@@ -196,12 +196,31 @@
   * Packages with high value will require identification
 
 ## Basic conversation
-* Asking for checks/receipts
-  * Can I have the check/bill?
+* At work
+* In a restaurant
+  * Ordering
+    * Can I have a *cheese burrito*?
+    * I'd like [to order] a *honey bee pizza*.
+    * I'll do the *bacon sandwich*.
+    * \+ Thanks/thank you.
+  * Asking for checks
+    * [Excuse me]. Can I have the check/bill, [please]?
+  * Asking where the restroom/toilet is
+    * Could you tell me where the restroom is, [please]?
+* In an Uber
+  * Greeting
+    * Hi, how are you?
+    * Hey, how's it going?
+    * Hello, how's your day?
+  * Thanking
+    * Thank you [for the ride].
+    * Thank you, have a good day/night/one.
+* In a store
+* In a bar
 
 ## SOS
 * Passport damage/loss:
-  * Ask Shelby for her assistance (contact hochieu@vietnamembassy.us)
+  * Ask HR staff for their assistance (contact hochieu@vietnamembassy.us)
 
 
 
