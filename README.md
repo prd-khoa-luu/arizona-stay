@@ -197,6 +197,10 @@
 
 ## Basic conversation
 * At work
+  * Monday greeting: Good morning, how was your weekend?
+  * Goodbye: I'll see you around / catch you later.
+  * At lunchtime: Let's go eat lunch [together]!
+  * Friday goodbye: Goodbye, have a nice weekend!
 * In a restaurant
   * Ordering
     * Can I have a *cheese burrito*?
