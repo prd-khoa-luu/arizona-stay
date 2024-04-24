@@ -194,6 +194,14 @@
   * Packages are usually dropped off at the front door and a proof-of-delivery photo may be sent to you via the app
   * Some packages may be hidden in the carport (on the left of the house, behind the trash bins)
   * Packages with high value will require identification
+* Driving (not sure if anyone needs this)
+  * Driver's license: an international driver license or permit is not required, but you must have your Vietnamese driver's license physically with you ([here](https://azmvdservices.com/what-international-visitors-need-to-know-before-driving-in-arizona/), please recheck this yourself)
+  * Renting cars
+    * Most major rental companies require the renter of a motor vehicle be at least 25 years of age
+    * If you are younger than 25, you may still be able to rent a car but there will be an additional daily surcharge
+  * Make sure you understand
+    * that the laws are different, and driving customs may vary as well
+    * what to do if you're involved in a car accident 😱
 
 ## Basic conversation
 * At work
@@ -225,6 +233,8 @@
 ## SOS
 * Passport damage/loss:
   * Ask HR staff for their assistance (contact hochieu@vietnamembassy.us)
+* Health emergency (injuries or sickness)
+  * Follow the company's guide about Health and Insurance
 
 
 
