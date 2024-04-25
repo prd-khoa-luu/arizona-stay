@@ -109,6 +109,11 @@
   * https://www.mavrix.com/game/
   * There will be company outings to Marvix, so don't go there on your own!
 
+* Topgolf
+  * Location: [9500 Talking Stick Way, Scottsdale, AZ 85256, United States](https://maps.app.goo.gl/NSqQ3Yi2dkUMHYod6)
+  * https://topgolf.com/us/riverwalk/
+  * There may be company outings to Topgolf, so don't go there on your own!
+
 * Bowling
   * Locations
     * Bowlero Old Town - [7300 E Thomas Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/XoZeyzo9CPUQhhyT6)
@@ -118,9 +123,12 @@
 * Biking/running
 
 * Hiking - Papago Park/Hole in the rock
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%">
+
 
 * Hiking - Camelback
   * Location
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a7372d16-da4e-4e61-adb5-0c7a1ee3d936" width="50%">
   * Time: Early morning (5 AM for viewing sunrise)
   * Fee: 0
   * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
@@ -177,6 +185,7 @@
     * The server will take your card and come back with a receipt and a pen
     * You write down the tip, do the math, and sign
     * Don't forget to take the receipt and/or a picture of it before leaving
+    * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/2a8583cf-f906-4eb6-9c74-205e90e51b5c" width="50%">
 * "Bless you"
   * After you sneeze, someone may say "Bless you"
   * The proper response is "Thank you"
