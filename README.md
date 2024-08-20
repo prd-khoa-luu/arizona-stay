@@ -180,7 +180,7 @@
     * You cannot refuse to pay an automatic gratuity since the payment is a service charge
     * You can tip a few more dollars on top of that if the service is great
   * When you pay with a credit card, the process goes like this
-    * You ask the server for the check (the bill in BrE) - see [Basic conversation](#basic-conversation)
+    * You ask the server for the check (the bill in British English) - see [Basic conversation - In a restaurant - Asking for checks](#basic-conversation)
     * You receive it, check the items, and put your card on it
     * The server will take your card and come back with a receipt and a pen
     * You write down the tip, do the math, and sign
@@ -211,6 +211,19 @@
   * Make sure you understand
     * that the laws are different, and driving customs may vary as well
     * what to do if you're involved in a car accident 😱
+* Uber/taxi etiquette
+  * Booking
+    * Be ready to leave before requesting a ride. Don't make the driver wait unnecessarily.
+    * If you anticipate a delay, inform the driver through the app or a phone call.
+    * Double-check your pickup location. Use the "notes" feature if necessary.
+    * Cancelation: If you need to cancel the ride, do so as soon as possible. Be aware that canceling too late may incur a fee.
+  * Greeting & thanking: see [Basic conversation - In an Uber](#basic-conversation)
+  * During the ride
+    * First things first, always wear your seatbelt
+    * Sit in the back seat unless the vehicle is full. If you prefer the front seat, ask the driver if it's okay.
+  * Tipping & rating
+    * Tipping isn't as expected as it is in restaurants, but much appreciated. 1$ is probably okay for short trips, otherwise 10-15% of the fare.
+    * Give a 5-star rating if the ride was smooth and without any issues
 
 ## Basic conversation
 * At work
