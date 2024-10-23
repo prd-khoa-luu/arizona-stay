@@ -20,9 +20,9 @@
   * Download the app and put in your credit card info to use
   * Waymo always has the best prices compared to the rest
     * Google's self-driving car service
-    * Only available in some areas => Not very practical for your daily commute
+    * Only available in some areas
 * Bike
-  * Sponsored by Paradox 🎉
+  * Sponsored by Paradox 🎉 (I heard that the bikes were stolen recently though 😿)
   * Ride in bike lanes or on sidewalks
   * At crosswalks, follow the same rules for pedestrians (see Walking below)
 * Scooter (Spin/Bird)
