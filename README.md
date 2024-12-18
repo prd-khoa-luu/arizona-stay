@@ -39,7 +39,7 @@
 ### Restaurants
 * Pitch
   * Location: [6350 E Thomas Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/AwqDNMGFrp3HNVPx9)
-  * Menu: chicken wings (sweet & spicy rosemary, smoked peach BBQ), burgers, sanwiches, pizzas (pepperoni, Thai pie)
+  * Menu: chicken wings (sweet & spicy rosemary, smoked peach BBQ), burgers, sandwiches, pizzas (pepperoni, Thai pie)
   * Price: $
   * Reviews
     * Do NOT order the Buffalo Wings (or do it and be prepared to experience the ultimate sourness of a dish)
@@ -80,7 +80,7 @@
   * Menu: Vietnamese dishes
   * Price: $
   * Reviews
-    * If Phở Cao/Saigon Bowl is not your style, then try this one.
+    * If Phở Cao/Saigon Bowl is not your style, try this one.
     * [Cute Staff (Danang Bae)](https://github.com/prd-khoa-luu/arizona-stay/assets/43673927/0e8c7c11-c167-4649-b680-6a902e72d352)
     * Last time I ate here, the pho was too salty I had to ask for some hot water 🙃 -- [@prd-khoa-luu](https://github.com/prd-khoa-luu)
 * HULA'S Modern Tiki Scottsdale
@@ -161,12 +161,22 @@
     * Strolling (taking a walk and enjoying the surroundings)
    
 * Old Town Scottsdale
+  * Location: [Old Town Scottsdale, Scottsdale, AZ 85281, United States](https://maps.app.goo.gl/N9owM729efWmGVRm8)
+  * Main activities
+    * Shopping: souvenirs, arts
+    * Visiting museums, galleries, and historical sites
+    * Hitting the bars
+    * Dining
+    * Strolling
 
 * Downtown Phoenix
+  * Location: [Downtown Phoenix, Phoenix, AZ](https://maps.app.goo.gl/2JqV7pegpz8Kc4kd7)
 
 * Sedona
+  * Location: [Sedona, Arizona 86336](https://maps.app.goo.gl/xqKapGSrQttcN6EEA)
 
 * Grand Canyon
+  * Location: [Grand Canyon National Park, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
 
 ## Customs/traditions/practices
 * Eating out
