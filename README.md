@@ -105,6 +105,12 @@
   * Reviews
     * Work-friendly => You can bring your laptop here
     * Nice and cool garden
+* Da Vàng Restaurant
+  * Location: [4538 N 19th Ave, Phoenix, AZ 85015, United States](https://maps.app.goo.gl/kB7SU7Brs3mK63CH7)
+  * Menu: Vietnamese dishes
+  * Price: $
+  * Reviews
+    * 40-year-old Vietnamese restaurant, quite far, but the phở and bún bò huế are really good
 
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
@@ -192,14 +198,16 @@
 * Eating out
   * In the US, it is generally expected that fast food restaurants offer free refills for soft drinks. This means that you can often refill your cup with your choice of beverage multiple times without additional charges.
   * When you enter a casual restaurant (like Applebee's, Olive Garden, or Chili's), a waiter/waitress may ask you "dine-in or takeout?" That means they are asking if you want to sit down and enjoy their meal on the premise ("dine in" or "eat in") or order their food to be packed and taken away to eat elsewhere ("takeout" or "takeaway" or "to go").
+  * Customers are generally expected to clear their own trays and dispose of their trash at fast food chains (e.g. McDonald's, Chick-fil-A, Burger King, KFC, In-N-Out, Arby's, Wendy's)
 * Tipping
   * Standard (for restaurants): 15-25%
   * Counter service: 0-5%
+  * At major fast food chains (see examples above), tipping is generally not expected or required
   * Automatic gratuities: 18% to 20% of the bill
     * Often automatically added onto the bill for large parties, with more than 5 diners in the group
     * You cannot refuse to pay an automatic gratuity since the payment is a service charge
     * You can tip a few more dollars on top of that if the service is great
-  * When you pay with a credit card, the process goes like this
+  * When you pay with a credit card in a restaurant, the process goes like this
     * You ask the server for the check (the bill in British English) - see [Basic conversation - In a restaurant - Asking for checks](#basic-conversation)
     * You receive it, check the items, and put your card on it
     * The server will take your card and come back with a receipt and a pen
