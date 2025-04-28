@@ -1,7 +1,21 @@
 # A guide to staying in Arizona 🌵
 
 ## Accommodation
-* The Airbnb house
+* The SeventyOne15 McDowell apartment (new place)
+  * <img src="https://github.com/user-attachments/assets/767c6ab0-2d79-4063-9567-a5351ec06e96" width="50%">
+  * 3 bedrooms and 3 bathrooms
+  * Amenities (community)
+    * Fitness center
+    * Pool table
+    * Swimming pool + spa
+    * Parcel package concierge -> where you receive packages from Amazon, etc.
+  * Notes
+    * Non-soundproof walls
+* The Canopy hotel
+  * On-site restaurant
+  * 6 minutes to the office
+  * Suitable for short-term stays
+* The Airbnb house (old place)
   * 3 bedrooms and 2 bathrooms
   * 4 minutes to the office
   * Suitable for long-term stays
@@ -10,19 +24,6 @@
     * Recycling (pink bin): Friday mornings => take out the trash on Thursday nights
   * Smoke detectors / fire alarms
     * If a smoke detector keeps going off, it is probably due to a battery issue => try 1/ resetting it; 2/ replacing the battery
-* The Canopy hotel
-  * On-site restaurant
-  * 6 minutes to the office
-  * Suitable for short-term stays
-* The SeventyOne15 McDowell apartment
-  * 3 bedrooms and 3 bathrooms
-  * Amenities (community)
-    * Fitness center
-    * Pool table
-    * Swimming pool + spa
-    * Parcel package concierge (in mailroom)
-  * Notes
-    * Non-soundproof walls
 
 ## Means of transportation
 * Car (Uber/Lift/Waymo)
