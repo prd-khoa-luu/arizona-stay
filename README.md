@@ -11,11 +11,11 @@
     * Parcel package concierge -> where you receive packages from Amazon, etc.
   * Notes
     * Non-soundproof walls
-* The Canopy hotel
+* The Canopy hotel (temporary/short-term place)
   * On-site restaurant
   * 6 minutes to the office
   * Suitable for short-term stays
-* The Airbnb house (old place)
+* The Airbnb house (previous place)
   * 3 bedrooms and 2 bathrooms
   * 4 minutes to the office
   * Suitable for long-term stays
