@@ -14,6 +14,15 @@
   * On-site restaurant
   * 6 minutes to the office
   * Suitable for short-term stays
+* The SeventyOne15 McDowell apartment
+  * 3 bedrooms and 3 bathrooms
+  * Amenities (community)
+    * Fitness center
+    * Pool table
+    * Swimming pool + spa
+    * Parcel package concierge (in mailroom)
+  * Notes
+    * Non-soundproof walls
 
 ## Means of transportation
 * Car (Uber/Lift/Waymo)
