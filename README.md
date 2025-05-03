@@ -28,21 +28,46 @@
 ## Means of transportation
 * Car (Uber/Lift/Waymo)
   * Download the app and put in your credit card info to use
-  * Waymo always has the best prices compared to the rest
+  * Remember to wear your seatbelt when sitting in the front seat (and the back seat as well if riding Waymo)
+  * Waymo
     * Google's self-driving car service
-    * Only available in some areas
-* Bike
-  * Sponsored by Paradox 🎉 (I heard that the bikes were stolen recently though 😿)
-  * Ride in bike lanes or on sidewalks
-  * At crosswalks, follow the same rules for pedestrians (see Walking below)
-* Scooter (Spin/Bird)
+    * Available in most of the Phoenix-Scottsdale–Tempe-Mesa area
+    * Almost always has the best prices compared to the rest
+    * You may get Waymo rides via the Uber app -- to increase your chances of getting matched with a Waymo, go to Account > Settings > Ride Preferences > Autonomous vehicles, and toggle on to opt in
+    * Quick how-to: unlock trunk via app or in-car screen; use in-car screen for radio stations (music); double-pull door handle to exit
+  * Uber Reserve
+    * Schedule rides up to 90 days ahead with upfront pricing (including a reservation fee)
+    * Driver arrives early (5–15 minutes before pickup) and waits longer.
+    * If your card is charged when using an Uber voucher, it’s usually just a temporary hold that will be released after the trip.
+* Scooter (Lime/Spin/Bird)
   * Download the app and put in your credit card info to use
   * You can put your phone in the phone holder
+  * Lime
+    * You can book and pay for Lime scooters via the Uber app.
+    * Uber vouchers do not work for Lime rentals.
   * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a6834697-bc3c-4373-b785-ac6d4edd301a)
+* Bike
+  * Sponsored by Paradox 🎉
+  * Ride in bike lanes or on sidewalks
+  * On sidewalks (in Scottsdale): you can ride in either direction, but have to yield to pedestrians
+  * At crosswalks, follow vehicle rules in bike lanes and pedestrian rules on sidewalks (see Walking below)
+  * Ride along the Arizona Cross Cut Canal to get to work
+  * Store your bike in the apartment bike room or lock it at a bike rack
 * Walking
   * Use push-to-walk buttons: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
   * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
-  * Jaywalking is not illegal, so 🚶; but try to use crosswalks when possible 
+  * Jaywalking is not illegal, so 🚶; but try to use crosswalks when possible
+* Valley Metro Rail (and buses)
+  * Light rail connects downtown Phoenix, Tempe, and Mesa -- perfect for exploring
+  * Download the Valley Metro app, add your credit card, and load $4, which covers unlimited rides all day
+  * Remember: always scan before boarding the train; fare checks do happen
+* Airplane
+  * For flying to other states
+  * Basic economy
+    * No free carry-on, only 1 personal item e.g. Paradox backpack allowed
+    * Online check-in
+    * Boarding: you’ll board last
+    * Seat: assigned at check-in
 
 ## Establishments
 
