@@ -42,7 +42,7 @@
 * Walking
   * Use push-to-walk buttons: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
   * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
-  * Jaywalking is prohibited, but 🤷
+  * Jaywalking is not illegal, so 🚶; but try to use crosswalks when possible 
 
 ## Establishments
 
