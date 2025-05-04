@@ -256,6 +256,13 @@
     * You write down the tip, do the math, and sign
     * Don't forget to take the receipt and/or a picture of it before leaving
     * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/2a8583cf-f906-4eb6-9c74-205e90e51b5c" width="50%">
+  * For other services
+    * Barber/haircut: 15–20% of the bill
+    * Tour guides: for local tours, $5–$10 per person for small groups, $2–$5 for large groups; for all-day or multi-day tours, $8–$10 per day per person
+    * Bowling alley: optional $1–$2; tip snack bar or bar staff as you would elsewhere
+    * Bartenders: $1 per drink, more for complex cocktails or large groups
+    * Buffet: 10% if staff clear plates or assist you
+    * Hotel housekeeping: $2–$5 per night (often left daily with a note for the housekeeper)
 * "Bless you"
   * After you sneeze, someone may say "Bless you"
   * The proper response is "Thank you"
@@ -270,14 +277,14 @@
   * Definition: the activity of visiting several bars in succession, having a drink in each
   * Fun, but not recommended 😺
 * Online shopping and delivery
-  * Packages are usually dropped off at the front door and a proof-of-delivery photo may be sent to you via the app
+  * Packages are usually dropped off at the front door, and a proof-of-delivery photo may be sent to you via the app
   * Some packages may be hidden in the carport (on the left of the house, behind the trash bins)
   * Packages with high value will require identification
 * Driving (not sure if anyone needs this)
-  * Driver's license: an international driver license or permit is not required, but you must have your Vietnamese driver's license physically with you ([here](https://azmvdservices.com/what-international-visitors-need-to-know-before-driving-in-arizona/), please recheck this yourself)
+  * Driver's license: an international driver's license or permit is not required, but you must have your Vietnamese driver's license physically with you ([here](https://azmvdservices.com/what-international-visitors-need-to-know-before-driving-in-arizona/), please recheck this yourself)
   * Renting cars
-    * Most major rental companies require the renter of a motor vehicle be at least 25 years of age
-    * If you are younger than 25, you may still be able to rent a car but there will be an additional daily surcharge
+    * Most major rental companies require the renter of a motor vehicle to be at least 25 years of age
+    * If you are younger than 25, you may still be able to rent a car, but there will be an additional daily surcharge
   * Make sure you understand
     * that the laws are different, and driving customs may vary as well
     * what to do if you're involved in a car accident 😱
@@ -292,7 +299,7 @@
     * First things first, always wear your seatbelt
     * Sit in the back seat unless the vehicle is full. If you prefer the front seat, ask the driver if it's okay -- [Basic conversation - In an Uber](#basic-conversation).
   * Tipping & rating
-    * Tipping isn't as expected as it is in restaurants, but much appreciated. 1$ is probably okay for short trips, otherwise 10-15% of the fare.
+    * Tipping isn't as expected as it is in restaurants, but much appreciated. $1 is probably okay for short trips, otherwise 10-15% of the fare.
     * Give a 5-star rating if the ride was smooth and without any issues
 
 ## Daily life tips
