@@ -141,12 +141,86 @@
   * Reviews
     * 40-year-old Vietnamese restaurant, quite far, but the phở and bún bò huế are really good
 
-### Grocery stores
-* Lee Lee International Market: Asian groceries/food
-* AZ International Marketplace: Asian groceries/food
-* Walmart: everything! (You may want to book via the app instead of buying directly to save time and money on unnecessary trips)
+### Stores & supermarkets
+* Lee Lee International Market: Arizona’s largest (Asian) international supermarket, with closest location in Chandler
+  * Hours: typically 9am–8pm daily
+  * Huge selection of Asian, Latin American, Middle Eastern, and European groceries; great for hard-to-find spices, sauces, noodles, and specialty ingredients
+    * Rice
+    * Fresh (Asian) produce
+    * Live seafood
+    * Butcher
+    * Bakery
+    * Cookware
+    * Imported snacks
+    * ❎ NO chicken eggs
+* Mekong Plaza: Large Asian shopping center in Mesa
+  * Hours: most businesses 10am–7pm; restaurants and supermarket may vary
+  * Several authentic Asian restaurants, bakeries, tea shops
+  * Supermarket
+    * Rice
+    * Fresh (Asian) produce
+    * Seafood
+    * Noodles
+    * Sauces
+    * Frozen foods
+    * Kitchenware
+* Walmart: everything!
+  * Hours: 6am–11pm or 24 hours
+  * You may want to book via the app instead of buying directly to save time and money on unnecessary trips
+  * Wide range of groceries, household items, and international foods at low prices
+    * Bread & sandwiches
+    * Milk & dairy products
+    * Eggs
+    * Fresh produce
+    * Meat, poultry, and seafood
+    * Frozen foods and ready-to-eat meals
+    * Personal care products
+    * Supplements and over-the-counter (OTC) medications
+    * Cleaning supplies and household goods
+    * Seasonal items and basic clothing
+    * Electronics, small appliances, and school supplies
+    * ... and all sorts of other products!
+* Costco
+  * Requires membership (contact us 😉)
+  * Only accepts Visa credit/debit cards
+  * No bags, just boxes
+  * Hours: 10am–8:30pm (Mon–Fri), 9:30am–6pm (Sat), 10am–6pm (Sun); closed on some holidays
+  * Best to buy
+    * Bulk buying (cheaper)
+    * Fresh produce: broccoli, bok choy, cabbage, spinach, cucumbers, potatoes, tomatoes, carrots, asparagus
+    * Fruits: grapes, bananas, apples, pears, watermelon
+    * Meats: beef, pork, chicken
+    * Seafood: fish, shrimp
+    * Baked goods: cakes, cookies, pastries (apple filled danishes, any **2** 4-packs), pretzels, desserts
+    * Milk & dairy products
+    * Eggs
+    * Water
+    * Supplements: vitamins, minerals, probiotics, antioxidants, fish oils, herbs
+    * OTC drugs: pain relievers, cold & flu remedies, digestive aids, allergy medications
+    * Household goods
 * Albertson
+  * Hours: 6am–11pm (may vary)
+  * Good for fresh produce, bakery, deli, and everyday groceries
+    * Bread & sandwiches
+    * Milk & dairy products
+    * Eggs
+    * Veggetables
+    * Fruits
+    * Ready-to-eat (deli) meals and items
+    * Health/personal care products
+    * Supplements and medications
+* Trader Joe’s
+  * Hours: 8am–9pm; closed on major holidays
+  * Specializes in affordable organic, specialty, ready-to-eat foods, and house-brand items
+* Target
+  * Hours: 8am–10pm (may vary)
+  * General groceries, snacks, fresh produce, and household goods 
 * Walgreens
+  * Hours: 7am–10pm or 24 hours
+  * Good for quick grocery runs, snacks, beverages, and pharmacy needs
+    * Health/personal care products
+    * Beauty products
+    * Supplements and medications
 
 ## Activities
 * Marvix games
