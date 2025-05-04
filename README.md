@@ -182,6 +182,8 @@
     * There are 2 trails: Echo Canyon (steep, short, intense climb; rock scrambles; popular and crowded) and Cholla (longer, gradual start; rocky ridge; fewer amenities; challenging finish)
     * Remember to bring lots of water
 
+* Kayaking/paddling
+
 * Shooting guns
   * Yeah, first you need guns, and then bullets, and then a safe place to shoot
   * Or you can try [Shooting Ranges in Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
@@ -225,6 +227,14 @@
 
 * Grand Canyon
   * Location: [Grand Canyon National Park, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
+
+* Beyond Arizona
+  * New York City: Iconic landmarks (Statue of Liberty, Empire State Building, Central Park, Times Square), world-class museums, diverse neighborhoods (Chinatown, Harlem, Williamsburg)
+  * San Francisco: Golden Gate Bridge, diverse neighborhoods (Chinatown, Mission District), Alcatraz Island, Fisherman’s Wharf, historic cable cars, big tech headquarters and campuses (in San Jose)
+  * Chicago: Renowned architecture (Willis Tower, Frank Lloyd Wright homes), lakefront attractions (Navy Pier, Millennium Park), and a thriving arts and theater scene
+  * Seattle: Coffee culture (birthplace of Starbucks, indie cafes), Pike Place Market (fresh seafood, flying fish), scenic waterfront, Space Needle
+  * Boston: Rich history (Freedom Trail, Paul Revere’s House, Boston Tea Party Ships), walkable city center, top universities (Harvard, MIT), and charming neighborhoods (Beacon Hill)
+  * Los Angeles: World-famous landmarks (Hollywood Sign, Hollywood Walk of Fame, Grauman’s Chinese Theatre), vibrant neighborhoods (Venice Beach, Santa Monica Pier, upscale Beverly Hills), historic sites (Olvera Street, Watts Towers), Griffith Observatory
 
 ## Customs/traditions/practices
 * Eating out
@@ -300,12 +310,12 @@
   * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
   * Price markup rule of thumb
 
-| Purchase Type        | Add This % to Price | Example (for $100 purchase)              | Notes                         |
-| -------------------- | ------------------- | ---------------------------------------- | ----------------------------- |
-| Restaurant (dine-in) | **+30%**            | $100 + $30 tax + $20 tip = $150          | Tax + tip + possible card fee |
-| Restaurant (takeout) | **+10%**            | $100 + $10 tax + optional $10 tip = $120 | Tax + optional small tip      |
-| Groceries            | **+2–3%**           | $100 + $3 tax = $103                     | Some cities tax groceries     |
-| Online/Retail        | **+9%**             | $100 + $9 tax = $109                     | Typical AZ combined sales tax |
+| Purchase Type        | Add This % to Price | Example (for $100 purchase)     | Notes                         |
+| -------------------- | ------------------- | ------------------------------- | ----------------------------- |
+| Restaurant (dine-in) | **+30%**            | $100 + $10 tax + $20 tip = $130 | Tax + tip + possible card fee |
+| Restaurant (takeout) | **+10%**            | $100 + $10 tax + $10 tip = $130 | Tax + optional small tip      |
+| Groceries            | **+2–3%**           | $100 + $3 tax = $103            | Some cities tax groceries     |
+| Online/Retail        | **+9%**             | $100 + $10 tax = $110           | Typical AZ combined sales tax |
 
   * Bill splitting / group payments
     * Ask early: Tell the server if you want separate checks before ordering
