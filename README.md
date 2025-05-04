@@ -2,7 +2,6 @@
 
 ## Accommodation
 * The SeventyOne15 McDowell apartment (new place)
-  * <img src="https://github.com/user-attachments/assets/767c6ab0-2d79-4063-9567-a5351ec06e96" width="50%">
   * 3 bedrooms and 3 bathrooms
   * Amenities (community)
     * Fitness center
@@ -12,6 +11,7 @@
   * Notes
     * The walls are not soundproof
     * During a fire alarm, gather key items and exit to the ground level
+  * <img src="https://github.com/user-attachments/assets/767c6ab0-2d79-4063-9567-a5351ec06e96" width="50%">
 * The Canopy hotel (temporary/short-term place)
   * On-site restaurant
   * 6 minutes to the office
@@ -169,7 +169,7 @@
 
 * Hiking - Papago Park/Hole in the rock
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%">
-
+  * ![image](https://github.com/user-attachments/assets/01f51eb2-6e99-494d-b02d-2c8e0608f9a4)
 
 * Hiking - Camelback
   * Location
@@ -177,7 +177,10 @@
   * Time: Early morning (5 AM for viewing sunrise)
   * Fee: 0
   * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
-  * Note: remember to bring lots of water
+  * Notes
+    * This is one of the closest but hardest hikes in the area
+    * There are 2 trails: Echo Canyon (steep, short, intense climb; rock scrambles; popular and crowded) and Cholla (longer, gradual start; rocky ridge; fewer amenities; challenging finish)
+    * Remember to bring lots of water
 
 * Shooting guns
   * Yeah, first you need guns, and then bullets, and then a safe place to shoot
@@ -300,9 +303,12 @@
     * Could you tell me where the restroom is, [please]?
 * In an Uber
   * Greeting
-    * Hi, how are you?
-    * Hey, how's it going?
-    * Hello, how's your day?
+    * Hi, [how are you?]
+    * Hey, [how's it going?]
+    * Hello, [how's your day?]
+  * Asking about sitting up front
+    * Mind if I sit here? _(while pointing to the front seat)_
+    * [Hi! Do you] mind if I sit up front?
   * Thanking
     * Thank you [for the ride].
     * Thank you, have a good day/night/one.
@@ -314,6 +320,7 @@
   * Ask HR staff for their assistance (contact hochieu@vietnamembassy.us)
 * Health emergency (injuries or sickness)
   * Follow the company's guide about Health and Insurance
+  * Do not go to a hospital unless you get really sick; instead, go to Urgent Care
 
 
 
