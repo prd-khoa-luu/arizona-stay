@@ -344,7 +344,9 @@
 ## Basic conversation
 * At work
   * Monday greeting: Good morning, how was your weekend?
-  * Goodbye: I'll see you around / catch you later.
+  * Goodbye
+    * I'll see you around
+    * Catch you later
   * At lunchtime: Let's go eat lunch [together]!
   * Friday goodbye: Goodbye, have a nice weekend!
 * In a restaurant
@@ -369,7 +371,35 @@
     * Thank you [for the ride].
     * Thank you, have a good day/night/one.
 * In a store
+  * Asking for help
+    * Excuse me, can you help me find this?
+    * Do you have this in a different size/color?
+  * Paying
+    * I'd like to pay with a card/cash.
+    * Can I get a bag, please?
 * In a bar
+  * Ordering drinks
+    * Can I get a *beer*, please?
+    * I'd like a *vodka soda*, thanks.
+    * I'll have a *tequila shot*.
+  * Cheers / small talk
+    * Cheers!
+    * Is this seat taken?
+    * What are you drinking?
+* At a hotel
+  * Checking in
+    * Hi, I have a reservation under \<your name\>.
+    * I'm checking in — my name is \<your name\>.
+    * What time is check-out?
+    * Hi, I’m a guest here, could you hold my bags until check-in, please? / Do you have a place where I can leave my luggage before I check in?
+  * Asking for help
+    * Could I get an extra towel, please?
+    * Do you have Wi-Fi? / What’s the Wi-Fi password?
+    * How do I get to the elevator?
+  * Checking out
+    * I’m ready to check out.
+    * Can I leave my bags here for a few hours?
+    * Thank you, everything was great!
 
 ## SOS
 * Passport damage/loss:
