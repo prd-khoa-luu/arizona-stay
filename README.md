@@ -144,7 +144,7 @@
 ### Grocery stores
 * Lee Lee International Market: Asian groceries/food
 * AZ International Marketplace: Asian groceries/food
-* Walmart: everything! (You should book via the app instead of buying directly to save time and money on unnecessary trips)
+* Walmart: everything! (You may want to book via the app instead of buying directly to save time and money on unnecessary trips)
 * Albertson
 * Walgreens
 
@@ -280,10 +280,49 @@
   * Greeting & thanking: see [Basic conversation - In an Uber](#basic-conversation)
   * During the ride
     * First things first, always wear your seatbelt
-    * Sit in the back seat unless the vehicle is full. If you prefer the front seat, ask the driver if it's okay.
+    * Sit in the back seat unless the vehicle is full. If you prefer the front seat, ask the driver if it's okay -- [Basic conversation - In an Uber](#basic-conversation).
   * Tipping & rating
     * Tipping isn't as expected as it is in restaurants, but much appreciated. 1$ is probably okay for short trips, otherwise 10-15% of the fare.
     * Give a 5-star rating if the ride was smooth and without any issues
+
+## Daily life tips
+* Personal care
+  * Hydration: Drink plenty of water, as Arizona’s dry climate increases dehydration risk
+  * Sun protection: If you spend a lot of time outdoors, use sunscreen (SPF 30+), wear hats, sunglasses, and protective clothing
+  * Skin care: Use body lotion regularly to prevent dry, cracked skin and bleeding, especially in Arizona’s dry climate
+* Billing & payment
+  * Cards & cash
+    * Credit/debit cards and mobile payments are accepted almost everywhere
+    * If you use credit cards, choose those with low foreign transaction fees and currency conversion fees
+    * Some restaurants also charge extra fees for using credit/debit cards (card processing fees, usually 1.5-3.5% per transaction)
+    * Some (Asian) restaurants only accept cash only or cash and debit cards
+    * Arizona is considering a law to require most businesses to accept cash for purchases under $100
+  * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
+  * Price markup rule of thumb
+
+| Purchase Type        | Add This % to Price | Example (for $100 purchase)              | Notes                         |
+| -------------------- | ------------------- | ---------------------------------------- | ----------------------------- |
+| Restaurant (dine-in) | **+30%**            | $100 + $30 tax + $20 tip = $150          | Tax + tip + possible card fee |
+| Restaurant (takeout) | **+10%**            | $100 + $10 tax + optional $10 tip = $120 | Tax + optional small tip      |
+| Groceries            | **+2–3%**           | $100 + $3 tax = $103                     | Some cities tax groceries     |
+| Online/Retail        | **+9%**             | $100 + $9 tax = $109                     | Typical AZ combined sales tax |
+
+  * Bill splitting / group payments
+    * Ask early: Tell the server if you want separate checks before ordering
+    * Even or itemized: For similar orders, split evenly
+    * Cash is easiest: Bring small bills to make splitting simple
+
+* Units & timezones
+  * Distance: 1 mile (mi) ≈ 1.6 km
+  * Length
+    * 1 foot (ft) ≈ 30 cm
+    * 1 inch (in) ≈ 2.5 cm
+  * Weight
+    * 1 pound (lb) ≈ 0.45 kg
+    * 1 ounce (oz) ≈ 28 g
+  * Time: Most of Arizona is always on Mountain Standard Time (MST, UTC-7), and does not observe [daylight saving time](https://en.wikipedia.org/wiki/Daylight_saving_time)
+    * Winter (Nov-Mar): 1 hour ahead of California (PST, UTC-8), 1 hour behind Chicago (CST, UTC−6), 2 hours behind New York (EST, UTC−5)
+    * Summer (Mar–Nov): Same as California (PDT, UTC-7), 2 hours behind Chicago (CDT, UTC-5), 3 hours behind New York (EDT, UTC−4)
 
 ## Basic conversation
 * At work
