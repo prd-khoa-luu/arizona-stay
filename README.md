@@ -351,9 +351,16 @@
   * Definition: the activity of visiting several bars in succession, having a drink in each
   * Fun, but not recommended 😺
 * Online shopping and delivery
-  * Packages are usually dropped off at the front door, and a proof-of-delivery photo may be sent to you via the app
-  * Some packages may be hidden in the carport (on the left of the house, behind the trash bins)
-  * Packages with high value will require identification
+  * Delivery to the apartment complex
+    * Required address components: recipient’s full name, street address with apartment number (this is essential!), city, state, ZIP code, and any necessary access instructions
+    * Using the package concierge: receive a notification email or text from the system (or forwarded by the leasing office/National Corporate Housing) --> Scan QR code or use app --> retrieve package after locker door opens --> close locker door
+  * Locker Pickup (e.g. Amazon Locker)
+    * Self-service pickup points located in public areas (malls, stations)
+    * Useful for privacy or flexible pickup time
+  * Home address (for the house)
+    * Packages are usually dropped off at the front door, and a proof-of-delivery photo may be sent to you via the app or email
+    * Some packages may be hidden in the carport (on the left of the house, behind the trash bins)
+    * Packages with high value may require identification
 * Driving (not sure if anyone needs this)
   * Driver's license: an international driver's license or permit is not required, but you must have your Vietnamese driver's license physically with you ([here](https://azmvdservices.com/what-international-visitors-need-to-know-before-driving-in-arizona/), please recheck this yourself)
   * Renting cars
