@@ -10,7 +10,8 @@
     * Swimming pool + spa
     * Parcel package concierge -> where you receive packages from Amazon, etc.
   * Notes
-    * Non-soundproof walls
+    * The walls are not soundproof
+    * During a fire alarm, gather key items and exit to the ground level
 * The Canopy hotel (temporary/short-term place)
   * On-site restaurant
   * 6 minutes to the office
@@ -102,7 +103,9 @@
   * Location: [7436 E McDowell Rd, Scottsdale, AZ 85257, United States](https://goo.gl/maps/jcNXHixDSkjCHpUa9)
   * Menu: Vietnamese dishes
   * Price: $
-  * Reviews: It could get really loud inside, if you don't like the music, just sit outside
+  * Reviews:
+    * It could get really loud inside -- if you don't like the music, just sit outside
+    * There are vegetarian dishes
 * Sizzle Korean Barbecue
   * Location: [3720 N Scottsdale Rd #200, Scottsdale, AZ 85251, United States](https://goo.gl/maps/mLQaK1nGJADtpNim8)
   * Menu: Korean dishes
@@ -123,6 +126,7 @@
   * Menu: American/Polynesian/Hawaiian dishes
   * Price: $ - $$
   * Reviews
+    * It can get busy at lunch and dinner, so you may need to make a reservation in advance.
 * Schmooze
   * Location: [4222 N Marshall Way, Scottsdale, AZ 85251, United States](https://goo.gl/maps/itDKT8iZkHccrvUK7)
   * Menu: coffee drinks & cafe eats for breakfast & lunch
