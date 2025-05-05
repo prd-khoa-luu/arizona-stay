@@ -395,6 +395,10 @@
     * Some restaurants also charge extra fees for using credit/debit cards (card processing fees, usually 1.5-3.5% per transaction)
     * Some (Asian) restaurants only accept cash only or cash and debit cards
     * Arizona is considering a law to require most businesses to accept cash for purchases under $100
+  * Bill splitting / group payments
+    * Ask early: Tell the server if you want separate checks before ordering
+    * Even or itemized: For similar orders, split evenly
+    * Cash is easiest: Bring small bills to make splitting simple
   * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
   * Price markup rule of thumb
 
@@ -404,11 +408,6 @@
 | Restaurant (takeout) | **+10%**            | $100 + $10 tax + $10 tip = $130 | Tax + optional small tip      |
 | Groceries            | **+2–3%**           | $100 + $3 tax = $103            | Some cities tax groceries     |
 | Online/Retail        | **+9%**             | $100 + $10 tax = $110           | Typical AZ combined sales tax |
-
-  * Bill splitting / group payments
-    * Ask early: Tell the server if you want separate checks before ordering
-    * Even or itemized: For similar orders, split evenly
-    * Cash is easiest: Bring small bills to make splitting simple
 
 * Units & timezones
   * Distance: 1 mile (mi) ≈ 1.6 km
