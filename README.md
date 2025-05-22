@@ -31,10 +31,11 @@
   * Download the app and put in your credit card info to use
   * Remember to wear your seatbelt when sitting in the front seat (and the back seat as well if riding Waymo)
   * Waymo
-    * Google's self-driving car service
+    * Google's self-driving [electric] car service
     * Available in most of the Phoenix-Scottsdale–Tempe-Mesa area
     * Almost always has the best prices compared to the rest
     * You may get Waymo rides via the Uber app -- to increase your chances of getting matched with a Waymo, go to Account > Settings > Ride Preferences > Autonomous vehicles, and toggle on to opt in
+    * Note: Only requests for UberX, Uber Green, Uber Comfort, or Uber Comfort Electric are eligible for Waymo vehicles.
     * Quick how-to: unlock trunk via app or in-car screen; use in-car screen for radio stations (music); double-pull door handle to exit
   * Uber Reserve
     * Schedule rides up to 90 days ahead with upfront pricing (including a reservation fee)
@@ -64,7 +65,9 @@
   * Remember: always scan before boarding the train; fare checks do happen
 * Airplane
   * For flying to other states
-  * Basic economy
+  * Booking: research flights on Google Flights (https://www.google.com/travel/flights), then book directly through the airline’s website or app
+  * Look for the terminal before booking an Uber to the [PHX] airport
+  * Basic economy notes
     * No free carry-on, only 1 personal item e.g. Paradox backpack allowed
     * Online check-in
     * Boarding: you’ll board last
@@ -382,6 +385,18 @@
   * Tipping & rating
     * Tipping isn't as expected as it is in restaurants, but much appreciated. $1 is probably okay for short trips, otherwise 10-15% of the fare.
     * Give a 5-star rating if the ride was smooth and without any issues
+* Hotel basics
+  * Booking
+    * Use online platforms (e.g., Booking.com) or hotel websites
+    * Contact hotel (call or in-app) for special requests or info
+    * Key criteria: location, reviews, free cancellation
+  * Luggage keeping: Most hotels offer luggage storage before check-in/after check-out, sometimes for a small fee.
+  * Amenities
+    * Usually included: air conditioning (AC), Wi-Fi, towels, toiletries, housekeeping, TV
+    * May vary by hotel: private bathroom (cheap hotels may only have shared bathrooms), in-room safe, mini-fridge, laundry facilities, breakfast
+  * Incidental hold/security deposit
+    * At check-in, hotels place a temporary hold on your credit card or take a cash deposit (usually $50–$200) to cover potential extra charges or damages.
+    * This is not an actual charge, but it reduces your available credit and is released after check-out if there are no issues, though it may take a few days to process.
 
 ## Daily life tips
 * Personal care
