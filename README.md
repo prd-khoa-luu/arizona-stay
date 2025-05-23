@@ -187,6 +187,7 @@
   * Requires membership (contact us 😉)
   * Only accepts Visa credit/debit cards
   * No bags, just boxes
+  * 1 member can bring up to 2 adult guests (plus any children) per visit, but only the member can make purchases at checkout.
   * Hours: 10am–8:30pm (Mon–Fri), 9:30am–6pm (Sat), 10am–6pm (Sun); closed on some holidays
   * Best to buy
     * Bulk buying (cheaper)
@@ -261,6 +262,8 @@
 
 * Kayaking/paddling
 
+* Indoor bouldering/rock climbing
+
 * Shooting guns
   * Yeah, first you need guns, and then bullets, and then a safe place to shoot
   * Or you can try [Shooting Ranges in Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
@@ -286,7 +289,15 @@
     * Shopping: clothes (Ross), electronics (Best Buy), cosmetics (SEPHORA), lotions & soaps (Bath & Body Works), books (Barnes & Noble)
     * Dining
     * Strolling (taking a walk and enjoying the surroundings)
-   
+
+* Fashion Square
+  * Location: [Scottsdale, AZ 85251, USA](https://maps.app.goo.gl/ycCcEFDZ9Ym1NAyP9)
+  * Upscale, indoor luxury shopping mall with over 240 stores, dining, entertainment, and a connected boutique hotel
+  * Main activities
+    * Shopping: luxury and national brands (Macy’s, Apple, Hermès, Gucci, Versace, H&M, Sephora, Dick’s Sporting Goods, and more)
+    * Dining: high-end restaurants and cafes (food court, Nobu, Ocean 44, Francine, and more)
+    * Entertainment: Harkins Theatres, special events (e.g., Lunar New Year), luxury fitness center, and strolling the luxury wings
+
 * Old Town Scottsdale
   * Location: [Old Town Scottsdale, Scottsdale, AZ 85281, United States](https://maps.app.goo.gl/N9owM729efWmGVRm8)
   * Main activities
@@ -420,7 +431,7 @@
 | Purchase Type        | Add This % to Price | Example (for $100 purchase)     | Notes                         |
 | -------------------- | ------------------- | ------------------------------- | ----------------------------- |
 | Restaurant (dine-in) | **+30%**            | $100 + $10 tax + $20 tip = $130 | Tax + tip + possible card fee |
-| Restaurant (takeout) | **+10%**            | $100 + $10 tax + $10 tip = $130 | Tax + optional small tip      |
+| Restaurant (takeout) | **+10-20%**         | $100 + $10 tax + $10 tip = $120 | Tax + optional small tip      |
 | Groceries            | **+2–3%**           | $100 + $3 tax = $103            | Some cities tax groceries     |
 | Online/Retail        | **+9%**             | $100 + $10 tax = $110           | Typical AZ combined sales tax |
 
@@ -502,8 +513,3 @@
 * Health emergency (injuries or sickness)
   * Follow the company's guide about Health and Insurance
   * Do not go to a hospital unless you get really sick; instead, go to Urgent Care
-
-
-
-
-
