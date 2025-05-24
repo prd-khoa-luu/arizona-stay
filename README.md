@@ -143,6 +143,20 @@
   * Price: $
   * Reviews
     * 40-year-old Vietnamese restaurant, quite far, but the phở and bún bò huế are really good
+* Snakes & Lattes Tempe
+  * Location: [20 W 6th St, Tempe, AZ 85281, United States](https://maps.app.goo.gl/s7BRJYc5JtXB4WV77)
+  * Menu: American-style food and drinks
+  * Price: $
+  * Reviews
+    * Lively cafe with a huge collection of board & card games
+    * $6 game admission
+* Sugar Bowl
+  * Location: [4005 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://maps.app.goo.gl/QRRWeGJmWxnwCe9WA)
+  * Menu: ice cream treats (sundaes, shakes, banana splits), American comfort food (sandwiches, meatloaf, and chili dogs)
+  * Price: $
+  * Reviews
+    * A classic American diner and ice cream shop known for its retro, fun, and nostalgic pink vibe
+    * $6 game admission
 
 ### Stores & supermarkets
 * Lee Lee International Market: Arizona’s largest (Asian) international supermarket, with closest location in Chandler
@@ -281,6 +295,11 @@
   * Fee: $$
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="50%"> :flushed:
+
+* Museum of Illusions Scottsdale
+  * Location: [9500 East Vía de Ventura, Scottsdale, AZ 85256, United States](https://maps.app.goo.gl/sJK3akZta6RBCnFT6)
+  * Fee: $
+  * Tickets can be booked online - http://www.moiscottsdale.com/
 
 * Tempe Marketplace
   * Location: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, United States](https://goo.gl/maps/jRm2TJf38BAqiARA9)
@@ -431,7 +450,7 @@
 | Purchase Type        | Add This % to Price | Example (for $100 purchase)     | Notes                         |
 | -------------------- | ------------------- | ------------------------------- | ----------------------------- |
 | Restaurant (dine-in) | **+30%**            | $100 + $10 tax + $20 tip = $130 | Tax + tip + possible card fee |
-| Restaurant (takeout) | **+10-20%**         | $100 + $10 tax + $10 tip = $120 | Tax + optional small tip      |
+| Restaurant (takeout) | **+10-20%**         | $100 + $10 tax + $5 tip = $115  | Tax + optional small tip      |
 | Groceries            | **+2–3%**           | $100 + $3 tax = $103            | Some cities tax groceries     |
 | Online/Retail        | **+9%**             | $100 + $10 tax = $110           | Typical AZ combined sales tax |
 
