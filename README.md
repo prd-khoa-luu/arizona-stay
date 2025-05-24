@@ -273,24 +273,184 @@
 
 * Biking/running
 
-* Hiking - Papago Park/Hole in the rock
+* Hiking – Papago Park Trails & Hole in the rock
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%">
   * ![image](https://github.com/user-attachments/assets/01f51eb2-6e99-494d-b02d-2c8e0608f9a4)
+  * Location: [625 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://maps.app.goo.gl/CK2m92hDtzeC3Qc18) (multiple trailheads)
+  * Difficulty Level: Easy
+  * Trails: Multiple options
+    * Hole-in-the-Rock Trail: 0.2 miles, 200 ft elevation gain, iconic rock formation
+    * Big Butte Loop Trail: 0.8 miles, minimal elevation gain
+    * Double Butte Loop Trail: 2.3 miles, minimal elevation gain
+    * West Park Loop Trail: 4 miles, minimal elevation gain
+    * Nature Trail: 0.5 miles, interpretive signs
+  * Trailhead Access
+    * Multiple parking lots; accessible by car or rideshare (Uber)
+    * Facilities: Restrooms, picnic areas, water at main trailheads
+  * Fees/Permits: Free; no permits required
+  * Best Time To Hike: Early morning or late afternoon; best October–April
+  * What To Bring
+    * Water
+    * Comfortable walking shoes
+    * Sun protection (hat, sunscreen)
+    * Snacks (optional)
+  * Notes
+    * Dogs allowed on leash
+    * Trails open 5 AM–11 PM (main hours)
+    * Great for families, beginners, and casual hikers
+    * Popular for sunrise/sunset and photography (Hole in the rock)
+    * Leave No Trace principles apply
+    * Guide: [Papago Park Trails | City of Phoenix](https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/papago-park/papago-trails.html)
 
 * Hiking - Camelback
-  * Location
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a7372d16-da4e-4e61-adb5-0c7a1ee3d936" width="50%">
-  * Time: Early morning (5 AM for viewing sunrise)
-  * Fee: 0
-  * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
+  * Location: [Phoenix, AZ 85018, United States](https://maps.app.goo.gl/pZQZ2cxAtu7cY5PX8)
+  * Difficulty Level: Extremely difficult, challenging (not recommended for beginners or young children)
+  * Trails: 2 main trails
+    * Echo Canyon (northwest side): steep, intense, rock scrambles, 2.3 miles round trip, 1,440 ft elevation gain
+    * Cholla (east side): longer but gradual start, rocky ridge, challenging finish, about 2.5 miles one way
+    * Highlights: spectacular panoramic views of Phoenix and the Sonoran Desert from the summit
+  * Trailhead Access
+    * Accessible by car or rideshare
+    * Echo Canyon: dedicated parking lot, restrooms at trailhead
+    * Cholla: street parking on Invergorden Road
+  * Fees/permits: Free; no permits required
+  * Best Time to Hike: early morning (recommended 5 AM for sunrise) or late afternoon; avoid midday heat
+  * What to Bring
+    * Lots of water (at least 1 liter per person)
+    * Sturdy and grippy hiking shoes
+    * Sun protection (hat, sunscreen)
+    * Snacks
+    * Light, breathable clothing
   * Notes
-    * This is one of the closest but hardest hikes in the area
-    * There are 2 trails: Echo Canyon (steep, short, intense climb; rock scrambles; popular and crowded) and Cholla (longer, gradual start; rocky ridge; fewer amenities; challenging finish)
-    * Remember to bring lots of water
+    * One of Phoenix’s most popular (and hardest) urban hikes
+    * Crowded on weekends
+    * You can hike both trails in a single trip by starting on one and finishing on the other.
+    * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
+
+* Hiking – Pinnacle Peak
+  * Location: [Scottsdale, AZ 85262, United States](https://maps.app.goo.gl/9fZtHy2EU5iUafuY8)
+    * Direction: https://maps.app.goo.gl/fiUfJ51RnaFGiKs88
+  * Difficulty Level: Easy to moderate
+  * Trail: Single main trail, out-and-back
+    * Length: 3.5 miles round trip (1.75 miles one way)
+    * Elevation Gain: ~1,300 feet
+    * Highlights: Panoramic views of McDowell Mountains, Four Peaks, and the city; interpretive hikes and wildlife exhibits available
+  * Trailhead Access: Large parking lot at trailhead; accessible by car or rideshare
+  * Fees/Permits: Free; no permits required
+  * Best Time To Hike: Early morning or late afternoon; avoid midday heat (April–November temperatures can exceed 100°F)
+  * What To Bring: water, hiking shoes, sun protection
+  * Notes
+    * No dogs, bicycles, or motorized vehicles allowed on the trail
+    * Restrooms and water available at trailhead
+    * Stay on the designated trail at all times
+    * Allow at least 2 hours for the full hike
+    * Interpretive hikes and special events offered
+    * Rock climbing allowed in designated areas (contact park office)
+    * Guide: [Pinnacle Peak Park | City of Scottsdale](https://www.scottsdaleaz.gov/parks/find-a-park/pinnacle-peak-park)
+
+* Hiking – Piestewa Peak Summit Trail
+  * Location: [Piestewa Peak and Dreamy Draw Recreation Area, Phoenix, AZ](https://maps.app.goo.gl/tUVWskASdsBuLTXQ6)
+    * Direction: https://maps.app.goo.gl/3JF97RAJZGAgDKPGA
+  * Difficulty Level: Extremely difficult (double-black-diamond rating)
+  * Trail: Summit Trail #300
+    * Length: 2.1 miles round trip (1.2 miles one way to summit)
+    * Elevation Gain: 1,208 feet
+    * Highlights: Spectacular 360° views of Phoenix and surrounding mountains
+  * Trailhead Access
+    * Multiple parking lots; accessible by car or rideshare
+    * Facilities: Restrooms and water at trailhead (parking lot closes at 7 PM; trail open until 11 PM)
+  * Fees/Permits: Free; no permits required
+  * Best Time To Hike: Early morning or evening; avoid midday heat (open until 11 PM for night hikes)
+  * What To Bring: water, hiking shoes, sun protection
+  * Notes
+    * Very popular and crowded, especially on weekends and cooler months
+    * Not recommended for beginners or those with knee issues
+    * No dogs allowed on the summit trail
+    * Steep, stair-step terrain with little shade
+    * Leave No Trace principles apply
+    * Guide: [Piestewa Peak Hike | Everything You Need to Know](https://gohikeaz.com/piestewa-peak-hike/)
+
+* Hiking – Tom’s Thumb Trail
+  * Location: [Tom's Thumb Trail, Scottsdale, AZ 85255, United States](https://maps.app.goo.gl/3zjDAuMtfTLgCUp67)
+    * Direction: https://maps.app.goo.gl/r1kScdoTK6ke8Kaa9
+  * Difficulty Level: Moderate to strenuous (challenging for some, especially first mile)
+  * Trail: Main trail to Tom’s Thumb rock formation, out-and-back
+    * Length: 4.2 miles round trip (most popular route)
+    * Elevation Gain: ~1,086–1,200 feet
+    * Highlights: Dramatic rock formations, expansive desert views, photo opportunities
+  * Trailhead Access
+    * Large parking lot; accessible by car or rideshare
+    * Facilities: Restrooms at trailhead
+  * Fees/Permits: Free; no permits required
+  * Best Time To Hike: Early morning or late afternoon; avoid midday heat (best November–April)
+  * What To Bring: water, hiking shoes, sun protection, hiking poles (optional)
+  * Notes
+    * Dogs allowed on leash (not recommended in hot weather)
+    * Trailhead open sunrise to sunset; gates close at sunset
+    * First mile is the hardest; trail levels out after
+    * Light scrambling required near the end
+    * Rattlesnake country—stay on trail
+    * Leave No Trace principles apply
+    * Guide: [Tom’s Thumb Trail In Scottsdale- All You Need To Know](https://thekarabou.com/tom-s-thumb/)
+
+* Hiking – Gateway Loop Trail
+  * Location: [Scottsdale, AZ 85255, USA](https://maps.app.goo.gl/YjpU1nrjaAMwSUU96)
+    * Direction: https://maps.app.goo.gl/nkdstybossowh9fb6
+  * Difficulty Level: Moderate
+  * Trail: Gateway Loop Trail
+    * Length: 4.3 miles round trip (loop)
+    * Elevation Gain: ~622–655 feet
+    * Highlights: Stunning desert landscapes, views of McDowell Mountains, wildflowers, wildlife sightings
+  * Trailhead Access
+    * Large parking lot; accessible by car or rideshare
+    * Facilities: Restrooms, water fountain, shaded structure at trailhead
+  * Fees/Permits: Free (permits only for groups, photography, or special uses)
+  * Best Time To Hike: Early morning or late afternoon; best November–April
+  * What To Bring: water, hiking shoes, sun protection
+  * Notes
+    * Dogs and horses allowed on leash
+    * Trail is well-marked and popular; expect crowds midday and weekends
+    * Rocky terrain; hiking poles optional
+    * Stay on trail to protect desert flora
+    * Leave No Trace principles apply
+    * Guide: [Gateway Loop Trail- A BEAUTIFUL Scottsdale Hike](https://thekarabou.com/gateway-loop-trail/)
+
+* Hiking – Flatiron Trail
+  * Location: [6109 N Apache Trail, Apache Junction, AZ 85119, United States](https://maps.app.goo.gl/PT2ZiYSQL8WfG9M87)
+  * Difficulty Level: Extremely difficult (rock scrambling required)
+  * Trail: Siphon Draw to Flatiron
+    * Length: 5.8 miles round trip
+    * Elevation Gain: ~2,800 feet
+    * Highlights: Dramatic rock formations, panoramic views, unique geology
+  * Trailhead Access
+    * Parking lot at trailhead; accessible by car or rideshare
+    * Facilities: Restrooms and water at trailhead
+  * Fees/Permits: $10 per car if parking (Lost Dutchman State Park entrance fee)
+  * Best Time To Hike: Early morning; best November–March; avoid summer heat
+  * What To Bring: water, hiking shoes, sun protection, light jacket, hiking poles (optional)
+  * Notes
+    * Not recommended for beginners or those uncomfortable with scrambling
+    * Trail becomes an unmarked scramble near the top
+    * Hike with a partner or group for safety
+    * Leave No Trace principles apply
+    * Watch for loose rocks and wildlife
+    * Arrive early for parking
+    * Guide: [Ultimate Guide to Hiking Flatiron via Siphon Draw Trail](https://thekarabou.com/hike-siphon-draw-to-flat-iron-superstition-wilderness-arizona/)
 
 * Kayaking/paddling
+  * Location: Tonto National Forest - Lower Salt River
+  * 2-Hour Self-Guided Foxtail Kayak Trip
+  * You may Uber to the location but going back will be a problem; it's best to join someone with a car
+  * What to bring
+    * Water
+    * Sun protection (hat, sunscreen)
+    * Water shoes
+    * Waterproof bags/pouches
 
 * Indoor bouldering/rock climbing
+
+* OHV/ATV adventures
 
 * Shooting guns
   * Yeah, first you need guns, and then bullets, and then a safe place to shoot
@@ -476,6 +636,16 @@
   * Weight
     * 1 pound (lb) ≈ 0.45 kg
     * 1 ounce (oz) ≈ 28 g
+  * Temperature: Fahrenheit (°F)
+    * Formula: °F = (°C × 9/5) + 32
+    * Quick tips
+      * °F ≈ (°C × 2) + 30
+      * °C ≈ (°F - 30) ÷ 2
+      * 32°F ≈ 0°C
+      * 50°F ≈ 10°C
+      * 70°F ≈ 20°C
+      * 90°F ≈ 30°C
+      * 104°F ≈ 40°C
   * Time: Most of Arizona is always on Mountain Standard Time (MST, UTC-7), and does not observe [daylight saving time](https://en.wikipedia.org/wiki/Daylight_saving_time)
     * Winter (Nov-Mar): 1 hour ahead of California (PST, UTC-8), 1 hour behind Chicago (CST, UTC−6), 2 hours behind New York (EST, UTC−5)
     * Summer (Mar–Nov): Same as California (PDT, UTC-7), 2 hours behind Chicago (CDT, UTC-5), 3 hours behind New York (EDT, UTC−4)
