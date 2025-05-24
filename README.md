@@ -1,8 +1,8 @@
 # A guide to staying in Arizona 🌵
 
-Arizona welcomes you, especially our Vietnamese guests and friends from Asia!
+Arizona welcomes you, especially our Paradox friends from Vietnam!
 
-There are probably many new and perhaps a bit unfamiliar things when you arrive in a new place, right? This little guide has been put together with the hope of sharing some useful info and tips to make your journey exploring Arizona easier, more convenient, and full of fun memories. From finding accommodation, how to get around, what delicious food to try, to some aspects of local life and culture here, hopefully, it will help you feel more comfortable and confident during your time in Arizona.
+There are probably many new and perhaps a bit unfamiliar things when you arrive in a new place, right? This little guide has been put together with the hope of sharing some useful info and tips to make your journey exploring Arizona easier, more convenient, and full of fun memories. From accommodation, how to get around, what delicious food to try, to some aspects of local life and culture here, hopefully, it will help you feel more comfortable and confident during your time in Arizona.
 
 Let's dive in!
 
@@ -655,23 +655,25 @@ Let's dive in!
     * This is not an actual charge, but it reduces your available credit and is released after check-out if there are no issues, though it may take a few days to process.
 
 ## Daily life tips
-* Personal care
-  * Hydration: Drink plenty of water, as Arizona’s dry climate increases dehydration risk
-  * Sun protection: If you spend a lot of time outdoors, use sunscreen (SPF 30+), wear hats, sunglasses, and protective clothing
-  * Skin care: Use body lotion regularly to prevent dry, cracked skin and bleeding, especially in Arizona’s dry climate
-* Billing & payment
-  * Cards & cash
-    * Credit/debit cards and mobile payments are accepted almost everywhere
-    * If you use credit cards, choose those with low foreign transaction fees and currency conversion fees
-    * Some restaurants also charge extra fees for using credit/debit cards (card processing fees, usually 1.5-3.5% per transaction)
-    * Some (Asian) restaurants only accept cash only or cash and debit cards
-    * Arizona is considering a law to require most businesses to accept cash for purchases under $100
-  * Bill splitting / group payments
-    * Ask early: Tell the server if you want separate checks before ordering
-    * Even or itemized: For similar orders, split evenly
-    * Cash is easiest: Bring small bills to make splitting simple
-  * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
-  * Price markup rule of thumb
+
+### Personal care
+* Hydration: Drink plenty of water, as Arizona’s dry climate increases dehydration risk
+* Sun protection: If you spend a lot of time outdoors, use sunscreen (SPF 30+), wear hats, sunglasses, and protective clothing
+* Skin care: Use body lotion regularly to prevent dry, cracked skin and bleeding, especially in Arizona’s dry climate
+
+### Billing & payment
+* Cards & cash
+  * Credit/debit cards and mobile payments are accepted almost everywhere
+  * If you use credit cards, choose those with low foreign transaction fees and currency conversion fees
+  * Some restaurants also charge extra fees for using credit/debit cards (card processing fees, usually 1.5-3.5% per transaction)
+  * Some (Asian) restaurants only accept cash only or cash and debit cards
+  * Arizona is considering a law to require most businesses to accept cash for purchases under $100
+* Bill splitting / group payments
+  * Ask early: Tell the server if you want separate checks before ordering
+  * Even or itemized: For similar orders, split evenly
+  * Cash is easiest: Bring small bills to make splitting simple
+* Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
+* Price markup rule of thumb
 
 | Purchase Type        | Add This % to Price | Example (for $100 purchase)     | Notes                         |
 | -------------------- | ------------------- | ------------------------------- | ----------------------------- |
@@ -680,27 +682,105 @@ Let's dive in!
 | Groceries            | **+2–3%**           | $100 + $3 tax = $103            | Some cities tax groceries     |
 | Online/Retail        | **+9%**             | $100 + $10 tax = $110           | Typical AZ combined sales tax |
 
-* Units & timezones
-  * Distance: 1 mile (mi) ≈ 1.6 km
-  * Length
-    * 1 foot (ft) ≈ 30 cm
-    * 1 inch (in) ≈ 2.5 cm
-  * Weight
-    * 1 pound (lb) ≈ 0.45 kg
-    * 1 ounce (oz) ≈ 28 g
-  * Temperature: Fahrenheit (°F)
-    * Formula: °F = (°C × 9/5) + 32
-    * Quick tips
-      * °F ≈ (°C × 2) + 30
-      * °C ≈ (°F - 30) ÷ 2
-      * 32°F ≈ 0°C
-      * 50°F ≈ 10°C
-      * 70°F ≈ 20°C
-      * 90°F ≈ 30°C
-      * 104°F ≈ 40°C
-  * Time: Most of Arizona is always on Mountain Standard Time (MST, UTC-7), and does not observe [daylight saving time](https://en.wikipedia.org/wiki/Daylight_saving_time)
-    * Winter (Nov-Mar): 1 hour ahead of California (PST, UTC-8), 1 hour behind Chicago (CST, UTC−6), 2 hours behind New York (EST, UTC−5)
-    * Summer (Mar–Nov): Same as California (PDT, UTC-7), 2 hours behind Chicago (CDT, UTC-5), 3 hours behind New York (EDT, UTC−4)
+### Units & timezones
+* Distance: 1 mile (mi) ≈ 1.6 km
+* Length
+  * 1 foot (ft) ≈ 30 cm
+  * 1 inch (in) ≈ 2.5 cm
+* Weight
+  * 1 pound (lb) ≈ 0.45 kg
+  * 1 ounce (oz) ≈ 28 g
+* Temperature: Fahrenheit (°F)
+  * Formula: °F = (°C × 9/5) + 32
+  * Quick tips
+    * °F ≈ (°C × 2) + 30
+    * °C ≈ (°F - 30) ÷ 2
+    * 32°F ≈ 0°C
+    * 50°F ≈ 10°C
+    * 70°F ≈ 20°C
+    * 90°F ≈ 30°C
+    * 104°F ≈ 40°C
+* Time: Most of Arizona is always on Mountain Standard Time (MST, UTC-7), and does not observe [daylight saving time](https://en.wikipedia.org/wiki/Daylight_saving_time)
+  * Winter (Nov-Mar)
+    * 1 hour ahead of California (PST, UTC-8)
+    * 1 hour behind Chicago (CST, UTC−6)
+    * 2 hours behind New York (EST, UTC−5)
+  * Summer (Mar–Nov)
+    * Same as California (PDT, UTC-7)
+    * 2 hours behind Chicago (CDT, UTC-5)
+    * 3 hours behind New York (EDT, UTC−4)
+
+### Local names with unusual pronunciation
+
+#### Arizona cities & places
+
+* Phoenix (Arizona)
+  * IPA: /ˈfiːnɪks/
+  * Pronunciation: FEE-nix (not "FEE-niks")
+    * 'FEE' as in "fee"
+    * 'nix' as in "Nixon"
+* Mesa (Arizona)
+  * IPA: /ˈmeɪsə/
+  * Pronunciation: MAY-suh (not "MEE-sa")
+    * 'MAY' as in "may"
+    * 'suh' as in "sun" without the 'n'
+* Tempe (Arizona):
+  * IPA: /ˈtɛmpi/
+  * Pronunciation: TEM-pee (not "tem-PAY")
+    * 'TEM' as in "temp"
+    * 'pee' as in "pee"
+* Tucson (Arizona):
+  * IPA: /ˈtuːsɒn/ or /ˈtuːsɑːn/
+  * Pronunciation: TOO-sahn or TOO-sawn (not "TUK-son")
+    * 'TOO' as in "too"
+    * 'sahn' or 'sawn' as in "saw"
+* Butte (e.g., Double Butte Loop Trail):
+  * IPA: /bjuːt/
+  * Pronunciation: byoot (not "butt")
+    * 'byoot' rhymes with "cute"
+* Mekong Plaza:
+  * IPA: /ˈmeɪkɔːŋ ˈplɑːzə/
+  * Pronunciation: MAY-kong PLAH-zuh (not "MEE-kong")
+    * 'MAY' as in "may"
+    * 'kong' as in "kong" (rhymes with "song")
+
+#### Other U.S. states & places
+
+* San Jose (California)
+  * IPA: /sæn hoʊˈzeɪ/
+  * Pronunciation: san ho-ZAY (not "San JOEZ")
+    * 'san' as in "sand"
+    * 'ho' as in "hope"
+    * 'ZAY' rhymes with "say"
+* Houston (Texas)
+  * IPA: /ˈhjuːstən/
+  * Pronunciation: HEW-stən (not "HOUSE-ton")
+    * 'HEW' as in "hue"
+    * 'stən' as in "stun"
+* Chicago
+  * IPA: /ʃɪˈkɑːɡoʊ/
+  * Pronunciation: shik-AH-goh (not "CHICK-ah-go")
+    * 'shik' as in "shick" (like "sh" + "ick")
+    * 'AH' as in "father"
+    * 'goh' as in "go"
+* Illinois
+  * IPA: /ˌɪləˈnɔɪ/
+  * Pronunciation: il-ih-NOY (not "IL-lin-oyz")
+    * 'il' as in "ill"
+    * 'ih' as in "it"
+    * 'NOY' rhymes with "boy"
+* Arkansas
+  * IPA: /ˈɑːrkənsɔː/
+  * Pronunciation: AR-kan-saw (not "ar-KAN-zas")
+    * 'AR' as in "car"
+    * 'kan' as in "can"
+    * 'saw' as in "saw"
+* Missouri
+  * IPA: /mɪˈzɝ.i/ or /mɪˈzɝ.ə/
+  * Pronunciation: miz-UR-ee or miz-UR-uh (not "miss-OUR-ee")
+    * 'miz' as in "Ms."
+    * 'UR' as in "her"
+    * 'ee' as in "see"
 
 ## Basic conversation
 * At work
