@@ -709,6 +709,7 @@ Let's dive in!
     * Same as California (PDT, UTC-7)
     * 2 hours behind Chicago (CDT, UTC-5)
     * 3 hours behind New York (EDT, UTC−4)
+  * Arizona is always 14 hours behind Vietnam (UTC+7)
 
 ### Local names with unusual pronunciation
 
@@ -783,6 +784,9 @@ Let's dive in!
     * 'ee' as in "see"
 
 ## Basic conversation
+
+### Common situations
+
 * At work
   * Monday greeting: Good morning, how was your weekend?
   * Goodbye
@@ -841,6 +845,67 @@ Let's dive in!
     * I’m ready to check out.
     * Can I leave my bags here for a few hours?
     * Thank you, everything was great!
+
+### Common responses
+
+* Thank you / Thanks!
+  * --> You're welcome. (Most common and polite)
+  * --> No problem / no worries. (Very common, a bit more casual)
+  * --> Anytime. (Means "I'm happy to help you again")
+  * --> Of course. (Used when the help was expected or easy)
+  * --> My pleasure. (More formal, often used in customer service)
+* Sorry.
+  * --> No worries.
+  * --> Don't worry about it.
+  * --> That's okay. / It's alright.
+* How are you? / How are you doing?
+  * --> Great, thanks / Good, thanks! (A common positive response)
+  * --> Not bad. (Means things are generally okay)
+  * --> I'm good, thanks. / Fine, thanks. (Neutral / Focuses on your well-being)
+  * --> I'm good, how are you [doing]? (Asking back)
+* How's it going? / How's your day?
+  * --> It's going well.
+* What's up?
+  * --> Not much / Nothing much / Not a lot. (Most common, means "nothing special is happening")
+  * --> Hey! / Hi! (You can just return the greeting, especially if you're busy or passing by quickly)
+  * --> Oh, just [what you're doing]. (e.g., "Oh, just heading to lunch.")
+  * --> Good, you? (If you want to briefly acknowledge it and ask back)
+*  Have a good one! / Have a nice weekend!
+  * --> You too! / Same to you! (The most common and friendly return)
+  * --> Have a good one too!
+* Goodbye!
+  * --> Bye! (Simple return goodbye)
+  * --> See you later! / See you around! (Common informal goodbyes)
+* Can I ...? / I'd like ...? / Could you ...?
+  * --> Certainly. / Of course. (Polite agreement)
+  * --> Sure. (More casual agreement)
+  * --> Right away. (Means you will do it quickly)
+  * --> Just a moment, please. (You need a short time to help you)
+  * --> Did you say ...? (Asking for clarification)
+* (When you understand what someone just said)
+  * --> Got it.
+  * --> [That] makes sense.
+  * --> I see what you mean.
+  * --> Okay, I understand.
+  * --> Understood, thanks.
+* (When you agree with a plan or idea)
+  * --> Sounds good.
+  * --> I agree.
+  * --> That’s a great idea.
+  * --> That works for me.
+  * --> Let’s do it.
+* (When you want to decline or turn down a request)
+  * --> I’m sorry, but I can’t.
+  * --> Unfortunately, I can’t make it.
+  * --> I wish I could, but I ...
+  * --> Maybe another time?
+* (When you want ot express doubt)
+  * --> I’m not sure about that.
+  * --> I have some concerns.
+  * --> Are you sure?
+  * --> That sounds a bit risky.
+  * --> I don’t know if that’s the best idea.
+  * --> That might not work.
 
 ## SOS
 * Passport damage/loss:
