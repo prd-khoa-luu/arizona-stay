@@ -1,5 +1,11 @@
 # A guide to staying in Arizona 🌵
 
+Arizona welcomes you, especially our Vietnamese guests and friends from Asia!
+
+There are probably many new and perhaps a bit unfamiliar things when you arrive in a new place, right? This little guide has been put together with the hope of sharing some useful info and tips to make your journey exploring Arizona easier, more convenient, and full of fun memories. From finding accommodation, how to get around, what delicious food to try, to some aspects of local life and culture here, hopefully, it will help you feel more comfortable and confident during your time in Arizona.
+
+Let's dive in!
+
 ## Accommodation
 * The SeventyOne15 McDowell apartment (new place)
   * 3 bedrooms and 3 bathrooms
