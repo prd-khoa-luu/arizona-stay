@@ -156,31 +156,40 @@
   * Price: $
   * Reviews
     * A classic American diner and ice cream shop known for its retro, fun, and nostalgic pink vibe
-    * $6 game admission
 
 ### Stores & supermarkets
 * Lee Lee International Market: Arizona’s largest (Asian) international supermarket, with closest location in Chandler
   * Hours: typically 9am–8pm daily
   * Huge selection of Asian, Latin American, Middle Eastern, and European groceries; great for hard-to-find spices, sauces, noodles, and specialty ingredients
-    * Rice
-    * Fresh (Asian) produce
-    * Live seafood
-    * Butcher
-    * Bakery
-    * Cookware
-    * Imported snacks
+    * Rice (ST25), noodles
+    * Fresh (Asian) produce: Asian vegetables (bok choy, lettuce, cauliflower, broccoli, napa cabbage, mustard greens, tomatoes, potatoes, carrots, daikon, eggplants, bamboo shoots, shallot/red onions, winter gourd, opo squash, bitter melon, bean sprouts, green onions, peanuts), tropical fruits (jackfruit, durian, guava, papaya, mango, lychee, rambutan, dragon fruit, tamarind)
+    * Spices and herbs: turmeric, Thai (red) chili, pepper, lemongrass, mint, Thai basil, cilantro, lime leaves, ginger, garlic
+    * Seafood: live crabs, lobsters, frozen shrimp, fish (mackerel, tuna, catfish, capelin)
+    * Butcher: Fresh meats, organ meats, and poultry
+    * Bakery: Asian breads, pastries, and desserts
+    * Imported snacks: chips, cookies, candies, and more
+    * Sauces and condiments: soy sauces, fish sauce, curry pastes, chili sauces, and more
+    * Frozen foods: dumplings, dim sum, bao, spring rolls, and other frozen Asian specialties
+    * Dairy and alternative milks: Asian dairy products, tofu, soy milk, and plant-based alternatives
+    * Other specialty items: pickled vegetables, kimchi, dried mushrooms, seaweeds, cooking oils, vinegars
+    * Cookware: Asian cookware, utensils, and specialty kitchen tools
     * ❎ NO chicken eggs
 * Mekong Plaza: Large Asian shopping center in Mesa
   * Hours: most businesses 10am–7pm; restaurants and supermarket may vary
   * Several authentic Asian restaurants, bakeries, tea shops
   * Supermarket
-    * Rice
-    * Fresh (Asian) produce
-    * Seafood
+    * Rice (ST25), noodles
+    * Fresh (Asian) produce: Asian vegetables and tropical fruits (similar to Lee Lee's)
+    * Spices and herbs
+    * Meats and poultry: fresh and frozen meats, including beef, pork, chicken, duck, goat, squab, and specialty cuts like entrails, liver, gizzards, pig snouts, chicken and duck feet
+    * Seafood: fresh and live fish, crabs, shrimp (with cleaning, scaling, and frying available)
     * Noodles
-    * Sauces
+    * Sauces and condiments
     * Frozen foods
+    * Snacks and Candy
     * Kitchenware
+    * ❎ No red chilies
+    * ❎ No winter gourd, opo squash, white daikon
 * Walmart: everything!
   * Hours: 6am–11pm or 24 hours
   * You may want to book via the app instead of buying directly to save time and money on unnecessary trips
@@ -188,8 +197,8 @@
     * Bread & sandwiches
     * Milk & dairy products
     * Eggs
-    * Fresh produce
-    * Meat, poultry, and seafood
+    * Fresh produce: vegetables (carrots, onions, potatoes, peppers, cucumbers, leafy greens, tomatoes, and more), fruits (apples, oranges, bananas, grapes, berries, mangoes, melons, pineapples, etc.)
+    * Meats & poultry (beef, pork, chicken, turkey, lamb), seafood (fish fillets, shrimp, crab)
     * Frozen foods and ready-to-eat meals
     * Personal care products
     * Supplements and over-the-counter (OTC) medications
@@ -197,6 +206,7 @@
     * Seasonal items and basic clothing
     * Electronics, small appliances, and school supplies
     * ... and all sorts of other products!
+  * Private label brands include Great Value (groceries and household), Equate (health and beauty), and Sam’s Choice (beverages and snacks)
 * Costco
   * Requires membership (contact us 😉)
   * Only accepts Visa credit/debit cards
@@ -209,14 +219,15 @@
     * Fruits: grapes, bananas, apples, pears, watermelon
     * Meats: beef, pork, chicken
     * Seafood: fish, shrimp
-    * Baked goods: cakes, cookies, pastries (apple filled danishes, any **2** 4-packs), pretzels, desserts
+    * Baked goods: cakes, cookies, pastries (apple filled danishes x2, or any **2** 4-packs), pretzels, desserts
     * Milk & dairy products
     * Eggs
     * Water
     * Supplements: vitamins, minerals, probiotics, antioxidants, fish oils, herbs
     * OTC drugs: pain relievers, cold & flu remedies, digestive aids, allergy medications
     * Household goods
-* Albertson
+  * Private label brand: Kirkland Signature
+* Albertsons
   * Hours: 6am–11pm (may vary)
   * Good for fresh produce, bakery, deli, and everyday groceries
     * Bread & sandwiches
@@ -227,18 +238,21 @@
     * Ready-to-eat (deli) meals and items
     * Health/personal care products
     * Supplements and medications
+  * Private label brands include Signature Select, O Organics, Lucerne (dairy), and Open Nature (natural and organic products)
 * Trader Joe’s
   * Hours: 8am–9pm; closed on major holidays
   * Specializes in affordable organic, specialty, ready-to-eat foods, and house-brand items
 * Target
   * Hours: 8am–10pm (may vary)
   * General groceries, snacks, fresh produce, and household goods 
+  * Private label brands include Good & Gather (food and beverages), Up & Up (household and health products), and Market Pantry (everyday grocery items)
 * Walgreens
   * Hours: 7am–10pm or 24 hours
   * Good for quick grocery runs, snacks, beverages, and pharmacy needs
     * Health/personal care products
     * Beauty products
     * Supplements and medications
+    * Candy & Chocolate
 
 ## Activities
 * Marvix games
