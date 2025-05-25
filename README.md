@@ -7,7 +7,7 @@ There are probably many new and perhaps a bit unfamiliar things when you arrive 
 Let's dive in!
 
 ## Accommodation
-* The SeventyOne15 McDowell apartment (new place)
+* The SeventyOne15 McDowell apartment (current place)
   * 3 bedrooms and 3 bathrooms
   * Amenities (community)
     * Fitness center
@@ -30,7 +30,7 @@ Let's dive in!
     * Trash (black bin): Monday mornings => take out the trash on Sunday nights
     * Recycling (pink bin): Friday mornings => take out the trash on Thursday nights
   * Smoke detectors / fire alarms
-    * If a smoke detector keeps going off, it is probably due to a battery issue => try 1/ resetting it; 2/ replacing the battery
+    * If a smoke detector keeps going off, it is probably due to a battery issue => try (1) resetting it; (2) replacing the battery
 
 ## Means of transportation
 * Car (Uber/Lift/Waymo)
@@ -558,6 +558,9 @@ Let's dive in!
 * Sedona
   * Location: [Sedona, Arizona 86336](https://maps.app.goo.gl/xqKapGSrQttcN6EEA)
 
+* Flagstaff
+  * Location: [Flagstaff, Arizona, USA](https://maps.app.goo.gl/iMthy7MTPeNwdomG6)
+
 * Grand Canyon
   * Location: [Grand Canyon National Park, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
 
@@ -575,9 +578,15 @@ Let's dive in!
   * When you enter a casual restaurant (like Applebee's, Olive Garden, or Chili's), a waiter/waitress may ask you "dine-in or takeout?" That means they are asking if you want to sit down and enjoy their meal on the premise ("dine in" or "eat in") or order their food to be packed and taken away to eat elsewhere ("takeout" or "takeaway" or "to go").
   * Customers are generally expected to clear their own trays and dispose of their trash at fast food chains (e.g. McDonald's, Chick-fil-A, Burger King, KFC, In-N-Out, Arby's, Wendy's)
 * Tipping
-  * Standard (for restaurants): 15-25%
-  * Counter service: 0-5%
-  * At major fast food chains (see examples above), tipping is generally not expected or required
+  * Tipping culture
+    * Tipping is not legally required, but is socially expected in many service settings, with 15-20% being the norm
+    * If you can’t afford to tip, you can’t afford to eat out
+    * What if the food is bad? --> Tipping is for service, not food quality; consider tipping normally and addressing the food issue with the manager or kitchen
+    * Tip 10% or less if the service was truly bad -- but rarely leave nothing unless the service was egregiously awful and you’ve spoken to a manager
+  * Amount
+    * Sit-down/full-service restaurant: 15-20%, more for outstanding service
+    * Counter service: 0-10%
+    * At major fast food chains (see examples above), tipping is generally not expected or required
   * Automatic gratuities: 18% to 20% of the bill
     * Often automatically added onto the bill for large parties, with more than 5 diners in the group
     * You cannot refuse to pay an automatic gratuity since the payment is a service charge
@@ -596,6 +605,7 @@ Let's dive in!
     * Bartenders: $1 per drink, more for complex cocktails or large groups
     * Buffet: 10% if staff clear plates or assist you
     * Hotel housekeeping: $2–$5 per night (often left daily with a note for the housekeeper)
+    * Food/grocery delivery: $5 or 20% (whichever greater)
 * "Bless you"
   * After you sneeze, someone may say "Bless you"
   * The proper response is "Thank you"
