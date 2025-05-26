@@ -48,6 +48,7 @@ Let's dive in!
     * Schedule rides up to 90 days ahead with upfront pricing (including a reservation fee)
     * Driver arrives early (5–15 minutes before pickup) and waits longer.
     * If your card is charged when using an Uber voucher, it’s usually just a temporary hold that will be released after the trip.
+
 * Scooter (Lime/Spin/Bird)
   * <details><summary>Riding Lime's</summary><video src="https://github.com/user-attachments/assets/01f0e4d6-753e-4e17-a07d-b627d8490f13" controls="controls"></video></details>
   * Download the app and put in your credit card info to use
@@ -55,6 +56,7 @@ Let's dive in!
   * Lime
     * You can book and pay for Lime scooters via the Uber app.
     * Uber vouchers do not work for Lime rentals.
+
 * Bike
   * <details><summary>Biking - using HAWK beacon</summary><video src="https://github.com/user-attachments/assets/42cf23f1-6a3e-474c-a6d5-676df006a28a" controls="controls"></video></details>
   * Sponsored by Paradox 🎉
@@ -63,10 +65,12 @@ Let's dive in!
   * At crosswalks, follow vehicle rules in bike lanes and pedestrian rules on sidewalks (see Walking below)
   * Ride along the Arizona Cross Cut Canal to get to work
   * Store your bike in the apartment bike room or lock it at a bike rack
+
 * Walking
   * Use push-to-walk buttons: [How to Use a HAWK Beacon](https://www.wikihow.life/Use-a-HAWK-Beacon)
   * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
   * Jaywalking is not illegal, so 🚶; but try to use crosswalks when possible
+
 * Valley Metro Rail (and buses)
   * <img src="https://github.com/user-attachments/assets/9190d243-f7d3-4d41-9511-a048a90c87fd" width="25%">
   * Light rail connects downtown Phoenix, Tempe, and Mesa -- perfect for exploring
@@ -184,6 +188,7 @@ Let's dive in!
     * Other specialty items: pickled vegetables, kimchi, dried mushrooms, seaweeds, cooking oils, vinegars
     * Cookware: Asian cookware, utensils, and specialty kitchen tools
     * ❎ NO chicken eggs
+
 * Mekong Plaza: Large Asian shopping center in Mesa
   * Hours: most businesses 10am–7pm; restaurants and supermarket may vary
   * Several authentic Asian restaurants, bakeries, tea shops
@@ -200,6 +205,7 @@ Let's dive in!
     * Kitchenware
     * ❎ No red chilies
     * ❎ No winter gourd, opo squash, white daikon
+
 * Walmart: everything!
   * Hours: 6am–11pm or 24 hours
   * You may want to book via the app instead of buying directly to save time and money on unnecessary trips
@@ -217,6 +223,7 @@ Let's dive in!
     * Electronics, small appliances, and school supplies
     * ... and all sorts of other products!
   * Private label brands include Great Value (groceries and household), Equate (health and beauty), and Sam’s Choice (beverages and snacks)
+
 * Costco
   * Requires membership (contact us 😉)
   * Only accepts Visa credit/debit cards
@@ -237,6 +244,7 @@ Let's dive in!
     * OTC drugs: pain relievers, cold & flu remedies, digestive aids, allergy medications
     * Household goods
   * Private label brand: Kirkland Signature
+
 * Albertsons
   * Hours: 6am–11pm (may vary)
   * Good for fresh produce, bakery, deli, and everyday groceries
@@ -249,13 +257,16 @@ Let's dive in!
     * Health/personal care products
     * Supplements and medications
   * Private label brands include Signature Select, O Organics, Lucerne (dairy), and Open Nature (natural and organic products)
+
 * Trader Joe’s
   * Hours: 8am–9pm; closed on major holidays
   * Specializes in affordable organic, specialty, ready-to-eat foods, and house-brand items
+
 * Target
   * Hours: 8am–10pm (may vary)
   * General groceries, snacks, fresh produce, and household goods 
   * Private label brands include Good & Gather (food and beverages), Up & Up (household and health products), and Market Pantry (everyday grocery items)
+
 * Walgreens
   * Hours: 7am–10pm or 24 hours
   * Good for quick grocery runs, snacks, beverages, and pharmacy needs
@@ -572,12 +583,14 @@ Let's dive in!
     * <details><summary>Light rail running through Downtown Phoenix</summary><video src="https://github.com/user-attachments/assets/a0a1f009-7094-416b-9dbf-ea22585e942a" controls="controls"></video></details>
 
 * Sedona
+  * <details><summary>Uptown Sedona</summary><video src="https://github.com/user-attachments/assets/22fd2fcd-1d64-4380-b04a-469e50532b8c" controls="controls"></video></details>
   * Location: [Sedona, Arizona 86336](https://maps.app.goo.gl/xqKapGSrQttcN6EEA)
 
 * Flagstaff
   * Location: [Flagstaff, Arizona, USA](https://maps.app.goo.gl/iMthy7MTPeNwdomG6)
 
 * Grand Canyon
+  * <details><summary>Grand Canyon from the top</summary><video src="https://github.com/user-attachments/assets/1f8c4432-645c-4226-9224-4dfc42381788" controls="controls"></video></details>
   * Location: [Grand Canyon National Park, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
 
 * Beyond Arizona
@@ -593,6 +606,7 @@ Let's dive in!
   * In the US, it is generally expected that fast food restaurants offer free refills for soft drinks. This means that you can often refill your cup with your choice of beverage multiple times without additional charges.
   * When you enter a casual restaurant (like Applebee's, Olive Garden, or Chili's), a waiter/waitress may ask you "dine-in or takeout?" That means they are asking if you want to sit down and enjoy their meal on the premise ("dine in" or "eat in") or order their food to be packed and taken away to eat elsewhere ("takeout" or "takeaway" or "to go").
   * Customers are generally expected to clear their own trays and dispose of their trash at fast food chains (e.g. McDonald's, Chick-fil-A, Burger King, KFC, In-N-Out, Arby's, Wendy's)
+
 * Tipping
   * Tipping culture
     * Tipping is not legally required, but is socially expected in many service settings, with 15-20% being the norm
@@ -622,19 +636,24 @@ Let's dive in!
     * Buffet: 10% if staff clear plates or assist you
     * Hotel housekeeping: $2–$5 per night (often left daily with a note for the housekeeper)
     * Food/grocery delivery: $5 or 20% (whichever greater)
+
 * "Bless you"
   * After you sneeze, someone may say "Bless you"
   * The proper response is "Thank you"
+
 * Riding shotgun
   * Riding in the front seat (when your friend is driving) is called riding shotgun
   * Claim the right to ride shotgun by being the first person to call out "shotgun" when everyone is in view of the vehicle
+
 * Happy hour
   * "Cheers"
   * The legal drinking age is 21 (which means you cannot buy, receive, possess, or consume alcohol before 21)
   * It is likely that you will be asked to show your ID before buying beer
+
 * Barhopping
   * Definition: the activity of visiting several bars in succession, having a drink in each
   * Fun, but not recommended 😺
+
 * Online shopping and delivery
   * Delivery to the apartment complex
     * Required address components: recipient’s full name, street address with apartment number (this is essential!), city, state, ZIP code, and any necessary access instructions
@@ -646,6 +665,7 @@ Let's dive in!
     * Packages are usually dropped off at the front door, and a proof-of-delivery photo may be sent to you via the app or email
     * Some packages may be hidden in the carport (on the left of the house, behind the trash bins)
     * Packages with high value may require identification
+
 * Driving (not sure if anyone needs this)
   * Driver's license: an international driver's license or permit is not required, but you must have your Vietnamese driver's license physically with you ([here](https://azmvdservices.com/what-international-visitors-need-to-know-before-driving-in-arizona/), please recheck this yourself)
   * Renting cars
@@ -654,6 +674,7 @@ Let's dive in!
   * Make sure you understand
     * that the laws are different, and driving customs may vary as well
     * what to do if you're involved in a car accident 😱
+
 * Uber/taxi etiquette
   * Booking
     * Be ready to leave before requesting a ride. Don't make the driver wait unnecessarily.
@@ -667,6 +688,7 @@ Let's dive in!
   * Tipping & rating
     * Tipping isn't as expected as it is in restaurants, but much appreciated. $1 is probably okay for short trips, otherwise 10-15% of the fare.
     * Give a 5-star rating if the ride was smooth and without any issues
+
 * Hotel basics
   * Booking
     * Use online platforms (e.g., Booking.com) or hotel websites
@@ -700,6 +722,7 @@ Let's dive in!
   * Cash is easiest: Bring small bills to make splitting simple
 * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
   * <img src="https://github.com/user-attachments/assets/4bc35a74-fe90-406d-9643-eae1e9ca4016" width="25%">
+  * Note: Groceries are often taxed at a lower rate than other goods.
 * Price markup rule of thumb
 
 | Purchase Type        | Add This % to Price | Example (for $100 purchase)     | Notes                         |
