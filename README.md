@@ -37,6 +37,7 @@ Let's dive in!
   * Download the app and put in your credit card info to use
   * Remember to wear your seatbelt when sitting in the front seat (and the back seat as well if riding Waymo)
   * Waymo
+    * <details><summary>Waymo making a turn</summary><video src="https://github.com/user-attachments/assets/93909fa9-ec83-4762-ab0c-61ca36c9c6f5" controls="controls"></video></details>
     * Google's self-driving [electric] car service
     * Available in most of the Phoenix-Scottsdale–Tempe-Mesa area
     * Almost always has the best prices compared to the rest
@@ -48,13 +49,14 @@ Let's dive in!
     * Driver arrives early (5–15 minutes before pickup) and waits longer.
     * If your card is charged when using an Uber voucher, it’s usually just a temporary hold that will be released after the trip.
 * Scooter (Lime/Spin/Bird)
+  * <details><summary>Riding Lime's</summary><video src="https://github.com/user-attachments/assets/01f0e4d6-753e-4e17-a07d-b627d8490f13" controls="controls"></video></details>
   * Download the app and put in your credit card info to use
   * You can put your phone in the phone holder
   * Lime
     * You can book and pay for Lime scooters via the Uber app.
     * Uber vouchers do not work for Lime rentals.
-  * ![image](https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a6834697-bc3c-4373-b785-ac6d4edd301a)
 * Bike
+  * <details><summary>Biking - using HAWK beacon</summary><video src="https://github.com/user-attachments/assets/42cf23f1-6a3e-474c-a6d5-676df006a28a" controls="controls"></video></details>
   * Sponsored by Paradox 🎉
   * Ride in bike lanes or on sidewalks
   * On sidewalks (in Scottsdale): you can ride in either direction, but have to yield to pedestrians
@@ -66,10 +68,12 @@ Let's dive in!
   * Also, cars will wait for you to cross roads - [Drivers must always yield to pedestrians](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
   * Jaywalking is not illegal, so 🚶; but try to use crosswalks when possible
 * Valley Metro Rail (and buses)
+  * <img src="https://github.com/user-attachments/assets/9190d243-f7d3-4d41-9511-a048a90c87fd" width="25%">
   * Light rail connects downtown Phoenix, Tempe, and Mesa -- perfect for exploring
   * Download the Valley Metro app, add your credit card, and load $4, which covers unlimited rides all day
   * Remember: always scan before boarding the train; fare checks do happen
 * Airplane
+  * <img src="https://github.com/user-attachments/assets/8920c027-5bee-4ad1-bfa0-b0634acda73a" width="25%">
   * For flying to other states
   * Booking: research flights on Google Flights (https://www.google.com/travel/flights), then book directly through the airline’s website or app
   * Look for the terminal before booking an Uber to the [PHX] airport
@@ -280,8 +284,7 @@ Let's dive in!
 * Biking/running
 
 * Hiking – Papago Park Trails & Hole in the rock
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%">
-  * ![image](https://github.com/user-attachments/assets/01f51eb2-6e99-494d-b02d-2c8e0608f9a4)
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%"><img src="https://github.com/user-attachments/assets/01f51eb2-6e99-494d-b02d-2c8e0608f9a4" width="50%">
   * Location: [625 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://maps.app.goo.gl/CK2m92hDtzeC3Qc18) (multiple trailheads)
   * Difficulty Level: Easy
   * Trails: Multiple options
@@ -310,6 +313,7 @@ Let's dive in!
 
 * Hiking - Camelback
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a7372d16-da4e-4e61-adb5-0c7a1ee3d936" width="50%">
+  * <details><summary>View from Camelback summit</summary><video src="https://github.com/user-attachments/assets/de81f890-ebc5-49ca-91f5-3b162261ed1e" controls="controls"></video></details>
   * Location: [Phoenix, AZ 85018, United States](https://maps.app.goo.gl/pZQZ2cxAtu7cY5PX8)
   * Difficulty Level: Extremely difficult, challenging (not recommended for beginners or young children)
   * Trails: 2 main trails
@@ -335,6 +339,7 @@ Let's dive in!
     * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
 
 * Hiking – Pinnacle Peak
+  * <details><summary>Hiking the Pinnacle Peak Trail</summary><video src="https://github.com/user-attachments/assets/ed27b907-4334-449f-ac26-98bc5da54d8a" controls="controls" width="320px"></video></details>
   * Location: [Scottsdale, AZ 85262, United States](https://maps.app.goo.gl/9fZtHy2EU5iUafuY8)
     * Direction: https://maps.app.goo.gl/fiUfJ51RnaFGiKs88
   * Difficulty Level: Easy to moderate
@@ -378,6 +383,7 @@ Let's dive in!
     * Guide: [Piestewa Peak Hike | Everything You Need to Know](https://gohikeaz.com/piestewa-peak-hike/)
 
 * Hiking – Tom’s Thumb Trail
+  * <details><summary>Tom’s Thumb</summary><video src="https://github.com/user-attachments/assets/c4e0d74c-8f84-4f5d-91a9-955ea01024c2" controls="controls"></video></details>
   * Location: [Tom's Thumb Trail, Scottsdale, AZ 85255, United States](https://maps.app.goo.gl/3zjDAuMtfTLgCUp67)
     * Direction: https://maps.app.goo.gl/r1kScdoTK6ke8Kaa9
   * Difficulty Level: Moderate to strenuous (challenging for some, especially first mile)
@@ -401,6 +407,7 @@ Let's dive in!
     * Guide: [Tom’s Thumb Trail In Scottsdale- All You Need To Know](https://thekarabou.com/tom-s-thumb/)
 
 * Hiking – Gateway Loop Trail
+  * <details><summary>Hiking Gateway Loop Trail from trailhead</summary><video src="https://github.com/user-attachments/assets/bab8b033-1463-4763-9d7d-1123f8b1cc23" controls="controls"></video></details>
   * Location: [Scottsdale, AZ 85255, USA](https://maps.app.goo.gl/YjpU1nrjaAMwSUU96)
     * Direction: https://maps.app.goo.gl/nkdstybossowh9fb6
   * Difficulty Level: Moderate
@@ -468,13 +475,13 @@ Let's dive in!
   * Location: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, United States](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
   * Fee: $$
   * Tickets can be booked online - https://www.odyseaaquarium.com/
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/c0e6a866-1157-49e2-851a-c83ef9dde3d9" width="50%">
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/c0e6a866-1157-49e2-851a-c83ef9dde3d9" width="25%">
 
 * Phoenix Zoo
   * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
   * Fee: $$
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="50%"> :flushed:
+  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="25%"> :flushed:
 
 * Museum of Illusions Scottsdale
   * Location: [9500 East Vía de Ventura, Scottsdale, AZ 85256, United States](https://maps.app.goo.gl/sJK3akZta6RBCnFT6)
@@ -482,6 +489,7 @@ Let's dive in!
   * Tickets can be booked online - http://www.moiscottsdale.com/
 
 * Tempe Marketplace
+  * <img src="https://github.com/user-attachments/assets/c35d8f72-6939-4a82-b607-b42abeaa7f9e" width="25%"><img src="https://github.com/user-attachments/assets/fc0a62e1-ff0d-4961-8fb1-bc7f8ecda3b5" width="25%">
   * Location: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, United States](https://goo.gl/maps/jRm2TJf38BAqiARA9)
   * Outdoor mall with national retailers, dining, live music on weekends & a play fountain for kids
   * Main activities
@@ -498,6 +506,8 @@ Let's dive in!
     * Entertainment: Harkins Theatres, special events (e.g., Lunar New Year), luxury fitness center, and strolling the luxury wings
 
 * Old Town Scottsdale
+  * <img src="https://github.com/user-attachments/assets/31d4507c-6ed0-4949-adf2-4e79e462ab0e" width="25%">
+  * <details><summary>A corner of Old Town Scottsdale</summary><video src="https://github.com/user-attachments/assets/a95997f3-79ad-41d6-886d-a9230aa08e22" controls="controls"></video></details>
   * Location: [Old Town Scottsdale, Scottsdale, AZ 85281, United States](https://maps.app.goo.gl/N9owM729efWmGVRm8)
   * Main activities
     * Shopping: souvenirs, arts
@@ -507,6 +517,7 @@ Let's dive in!
     * Strolling
  
 * Downtown Mesa
+  * <details><summary>A temple in Downtown Mesa</summary><video src="https://github.com/user-attachments/assets/91ec750b-5934-4982-8bc8-0cbac1797fc2" controls="controls"></video></details>
   * Part of the Valley Metro Light Rail Corridor
   * Location: [Downtown Mesa, Mesa, AZ, USA](https://maps.app.goo.gl/L5nvFDf4NvY2HyMa7)
   * Vibrant Arts Scene
@@ -683,6 +694,7 @@ Let's dive in!
   * Even or itemized: For similar orders, split evenly
   * Cash is easiest: Bring small bills to make splitting simple
 * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
+  * <img src="https://github.com/user-attachments/assets/4bc35a74-fe90-406d-9643-eae1e9ca4016" width="25%">
 * Price markup rule of thumb
 
 | Purchase Type        | Add This % to Price | Example (for $100 purchase)     | Notes                         |
