@@ -383,6 +383,7 @@ Let's dive in!
     * Guide: [Piestewa Peak Hike | Everything You Need to Know](https://gohikeaz.com/piestewa-peak-hike/)
 
 * Hiking – Tom’s Thumb Trail
+  * <img src="https://github.com/user-attachments/assets/cc92d7aa-0f81-48b2-9319-5390f1ec7c43" width="25%">
   * <details><summary>Tom’s Thumb</summary><video src="https://github.com/user-attachments/assets/c4e0d74c-8f84-4f5d-91a9-955ea01024c2" controls="controls"></video></details>
   * Location: [Tom's Thumb Trail, Scottsdale, AZ 85255, United States](https://maps.app.goo.gl/3zjDAuMtfTLgCUp67)
     * Direction: https://maps.app.goo.gl/r1kScdoTK6ke8Kaa9
@@ -548,7 +549,9 @@ Let's dive in!
     * Public Art Installations: Murals and sculptures throughout the area
   * Education & Community
     * Arizona State University (ASU): Major influence with student life, research, and events
+    * <img src="https://github.com/user-attachments/assets/d87b2a15-8802-4d38-b634-b7b4bd5e32aa" width="25%">
     * Festivals: Annual events like the Tempe Festival of the Arts and the Arizona Aloha Festival
+    * <img src="https://github.com/user-attachments/assets/aa8b84ac-f805-481a-9d70-3e3349b770c7" width="50%">
 
 * Downtown Phoenix
   * Part of the Valley Metro Light Rail Corridor
@@ -563,8 +566,10 @@ Let's dive in!
     * Roosevelt Row: Arts district with galleries, murals, and First Fridays art walks
     * Phoenix Art Museum: Largest art museum in the Southwest
   * Business & Transportation
+    * <img src="https://github.com/user-attachments/assets/1dd425b4-4ae6-41ce-8708-4618c333cf33" width="25%">
     * Corporate Offices: Major companies and government buildings
     * Transportation Hub: Light rail connects to Tempe, Mesa, and beyond
+    * <details><summary>Light rail running through Downtown Phoenix</summary><video src="https://github.com/user-attachments/assets/a0a1f009-7094-416b-9dbf-ea22585e942a" controls="controls"></video></details>
 
 * Sedona
   * Location: [Sedona, Arizona 86336](https://maps.app.goo.gl/xqKapGSrQttcN6EEA)
