@@ -1,5 +1,12 @@
 # A guide to staying in Arizona 🌵
 
+*:boom: Below is an **AI-generated** discussion based on this guide's content.*
+<video src="https://github.com/user-attachments/assets/99f1a3ad-9f77-429d-ba7b-a1e73c3bebf0" controls="controls"></video>
+
+*:boom: An **AI-generated** Vietnamese version of this guide and its discussion are also available at [README.vi.md](README.vi.md).*
+
+<br />
+
 Arizona welcomes you, especially our Paradox friends from Vietnam!
 
 There are probably many new and perhaps a bit unfamiliar things when you arrive in a new place, right? This little guide has been put together with the hope of sharing some useful info and tips to make your journey exploring Arizona easier, more convenient, and full of fun memories. From accommodation, how to get around, what delicious food to try, to some aspects of local life and culture here, hopefully, it will help you feel more comfortable and confident during your time in Arizona.
