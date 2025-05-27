@@ -331,7 +331,7 @@ Let's dive in!
 
 * Hiking - Camelback
   * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a7372d16-da4e-4e61-adb5-0c7a1ee3d936" width="50%">
-  * <details><summary>View from Camelback summit</summary><video src="https://github.com/user-attachments/assets/de81f890-ebc5-49ca-91f5-3b162261ed1e" controls="controls"></video></details>
+  * <details><summary>View from Camelback summit</summary><video src="https://github.com/user-attachments/assets/20fd097f-bb1c-479f-b8d4-36509e345aab" controls="controls"></video></details>
   * Location: [Phoenix, AZ 85018, United States](https://maps.app.goo.gl/pZQZ2cxAtu7cY5PX8)
   * Difficulty Level: Extremely difficult, challenging (not recommended for beginners or young children)
   * Trails: 2 main trails
