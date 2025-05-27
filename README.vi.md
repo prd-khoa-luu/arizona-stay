@@ -1,5 +1,10 @@
 # Cẩm nang lưu trú tại Arizona 🌵
 
+*:boom: Dưới đây là phiên bản thảo luận **do AI tạo ra** dựa trên nội dung của cẩm nang hướng dẫn này.*
+<video src="https://github.com/user-attachments/assets/e14471da-1de5-420c-a4b6-3acc6e519009" controls="controls"></video>
+
+<br />
+
 Arizona chào đón bạn, đặc biệt là những người bạn Paradox từ Việt Nam!
 
 Có lẽ có rất nhiều điều mới mẻ và có lẽ hơi xa lạ khi bạn đến một nơi ở mới, phải không? Cẩm nang nhỏ này được tổng hợp với hy vọng chia sẻ một số thông tin và mẹo hữu ích để giúp hành trình khám phá Arizona của bạn dễ dàng hơn, thuận tiện hơn và đầy ắp những kỷ niệm vui vẻ. Từ chỗ ở, cách đi lại, món ngon nên thử, cho đến một số khía cạnh của đời sống và văn hóa địa phương ở đây, hy vọng cẩm nang này sẽ giúp bạn cảm thấy thoải mái và tự tin hơn trong thời gian ở Arizona.
