@@ -1,4 +1,4 @@
-# Cẩm nang ở Arizona 🌵
+# Cẩm nang lưu trú tại Arizona 🌵
 
 Arizona chào đón bạn, đặc biệt là những người bạn Paradox từ Việt Nam!
 
@@ -9,7 +9,7 @@ Chúng ta cùng bắt đầu nào!
 ## Chỗ ở
 * Căn hộ The SeventyOne15 McDowell (chỗ ở hiện tại)
   * 3 phòng ngủ và 3 phòng tắm
-  * Tiện nghi (cộng đồng)
+  * Tiện nghi (chung của tòa nhà)
     * Phòng tập gym
     * Bàn bi-a
     * Hồ bơi + spa
@@ -18,8 +18,8 @@ Chúng ta cùng bắt đầu nào!
     * Tường không cách âm
     * Khi có báo cháy, hãy thu thập các vật dụng quan trọng và thoát xuống tầng trệt
   * <img src="https://github.com/user-attachments/assets/767c6ab0-2d79-4063-9567-a5351ec06e96" width="50%">
-* Khách sạn The Canopy (chỗ ở tạm thời/ngắn hạn)
-  * Nhà hàng trong khuôn viên
+* Khách sạn Canopy (chỗ ở tạm thời/ngắn hạn)
+  * Có nhà hàng ở tầng trệt
   * Cách văn phòng 6 phút
   * Phù hợp cho lưu trú ngắn hạn
 * Nhà Airbnb (chỗ ở trước đây)
@@ -49,7 +49,7 @@ Chúng ta cùng bắt đầu nào!
     * Tài xế đến sớm (5–15 phút trước giờ đón) và đợi lâu hơn.
     * Nếu thẻ của bạn bị trừ tiền khi sử dụng voucher Uber, đó thường chỉ là một khoản tạm giữ sẽ được hoàn lại sau chuyến đi.
 
-* Xe tay ga điện (Lime/Spin/Bird)
+* Xe tay ga (scooter) điện (Lime/Spin/Bird)
   * <details><summary>Đi xe Lime</summary><video src="https://github.com/user-attachments/assets/01f0e4d6-753e-4e17-a07d-b627d8490f13" controls="controls"></video></details>
   * Tải ứng dụng và nhập thông tin thẻ tín dụng để sử dụng
   * Bạn có thể đặt điện thoại vào giá đỡ điện thoại
@@ -67,22 +67,22 @@ Chúng ta cùng bắt đầu nào!
   * Cất xe đạp trong phòng để xe đạp của căn hộ hoặc khóa tại giá để xe đạp
 
 * Đi bộ
-  * Sử dụng nút bấm để qua đường: [Cách sử dụng Đèn hiệu HAWK](https://www.wikihow.life/Use-a-HAWK-Beacon)
+  * Sử dụng nút bấm xin qua đường: [Cách sử dụng đèn tín hiệu HAWK](https://www.wikihow.life/Use-a-HAWK-Beacon)
   * Ngoài ra, ô tô sẽ đợi bạn qua đường - [Tài xế phải luôn nhường đường cho người đi bộ](https://www.phoenixlawteam.com/blog/pedestrians-right-of-way-in-arizona/)
   * Đi bộ qua đường không đúng nơi quy định (jaywalking) không phải là bất hợp pháp, vì vậy cứ 🚶; nhưng cố gắng sử dụng lối sang đường khi có thể
 
-* Tàu điện ngầm Valley Metro (và xe buýt)
+* Tàu điện Valley Metro (và xe buýt)
   * <img src="https://github.com/user-attachments/assets/9190d243-f7d3-4d41-9511-a048a90c87fd" width="25%">
-  * Tàu điện nhẹ kết nối trung tâm Phoenix, Tempe, và Mesa -- hoàn hảo để khám phá
-  * Tải ứng dụng Valley Metro, thêm thẻ tín dụng của bạn, và nạp 4 đô la, bao gồm các chuyến đi không giới hạn cả ngày
-  * Lưu ý: luôn quét thẻ trước khi lên tàu; việc kiểm tra vé vẫn diễn ra
+  * Tàu điện nhẹ kết nối trung tâm Phoenix, Tempe, và Mesa -- thích hợp cho việc khám phá
+  * Tải ứng dụng Valley Metro, thêm thẻ tín dụng và nạp $4, đủ để đi không giới hạn cả ngày
+  * Lưu ý: luôn quét vé trước khi lên tàu; việc kiểm tra vé vẫn diễn ra
 * Máy bay
   * <img src="https://github.com/user-attachments/assets/8920c027-5bee-4ad1-bfa0-b0634acda73a" width="25%">
   * Để bay đến các tiểu bang khác
   * Đặt vé: tìm chuyến bay trên Google Flights (https://www.google.com/travel/flights), sau đó đặt trực tiếp qua trang web hoặc ứng dụng của hãng hàng không
   * Tìm nhà ga trước khi đặt Uber đến sân bay [PHX]
   * Lưu ý về hạng vé phổ thông cơ bản
-    * Không có hành lý xách tay miễn phí, chỉ được mang 1 vật dụng cá nhân ví dụ: ba lô Paradox
+    * Không có hành lý xách tay miễn phí, chỉ được mang 1 vật dụng cá nhân - ví dụ như ba lô Paradox
     * Làm thủ tục trực tuyến
     * Lên máy bay: bạn sẽ lên sau cùng
     * Ghế ngồi: được chỉ định khi làm thủ tục
@@ -91,73 +91,73 @@ Chúng ta cùng bắt đầu nào!
 
 ### Nhà hàng
 * Pitch
-  * Địa điểm: [6350 E Thomas Rd, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/AwqDNMGFrp3HNVPx9)
-  * Thực đơn: cánh gà (hương thảo ngọt & cay, BBQ đào hun khói), burger, sandwich, pizza (pepperoni, Thái)
+  * Địa chỉ: [6350 E Thomas Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/AwqDNMGFrp3HNVPx9)
+  * Thực đơn: cánh gà (sốt hương thảo ngọt cay, sốt BBQ đào hun khói), burgers, sandwich, pizza (pepperoni, Thai pie)
   * Giá: $
   * Đánh giá
-    * KHÔNG nên gọi Cánh Gà Cay Buffalo (hoặc cứ gọi và chuẩn bị trải nghiệm vị chua tột đỉnh của một món ăn)
+    * KHÔNG nên gọi món Buffalo Wings (Cánh gà sốt cay Buffalo), hoặc cứ gọi và chuẩn bị trải nghiệm vị chua đỉnh nóc kịch trần
 * Saigon Bowl
-  * Địa điểm: [8123 E Roosevelt St, Scottsdale, AZ 85257, Hoa Kỳ](https://goo.gl/maps/WFbGoJL4FCKXEXPGA)
+  * Địa chỉ: [8123 E Roosevelt St, Scottsdale, AZ 85257, United States](https://goo.gl/maps/WFbGoJL4FCKXEXPGA)
   * Thực đơn: các món ăn Việt Nam
   * Giá: $
   * Đánh giá
 * RA Sushi Bar Restaurant
-  * Địa điểm: [3815 N Scottsdale Rd, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/yfnhbSLSyEg52vo6A)
+  * Địa chỉ: [3815 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/yfnhbSLSyEg52vo6A)
   * Thực đơn: các món ăn Nhật Bản
   * Giá: $
   * Đánh giá
 * Craft 64 Scottsdale
-  * Địa điểm: [6922 E Main St, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/gNyRt24Xii8XVxdW6)
-  * Thực đơn: Pizza, Bruschetta (bánh mì phô mai tỏi), Dolce (Tiramisu)
+  * Địa chỉ: [6922 E Main St, Scottsdale, AZ 85251, United States](https://goo.gl/maps/gNyRt24Xii8XVxdW6)
+  * Thực đơn: Pizza, Bruschetta (bánh mì nướng phô mai tỏi), Dolce (Tiramisu)
   * Giá: $
-  * Đánh giá: Pizza mật ong là ngon nhất!
+  * Đánh giá: Pizza mật ong (honey bee pizza) là ngon nhất!
 * Lo-Lo's Chicken and Waffles
-  * Địa điểm: [3133 N Scottsdale Rd, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/if1HJkyG72Mm9aW17)
+  * Địa chỉ: [3133 N Scottsdale Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/if1HJkyG72Mm9aW17)
   * Thực đơn
   * Giá: $
   * Đánh giá: Tránh các món có hai bánh waffle, nếu không bạn sẽ phải xin hộp mang về.
 * Phở Cao
-  * Địa điểm: [7436 E McDowell Rd, Scottsdale, AZ 85257, Hoa Kỳ](https://goo.gl/maps/jcNXHixDSkjCHpUa9)
+  * Địa chỉ: [7436 E McDowell Rd, Scottsdale, AZ 85257, United States](https://goo.gl/maps/jcNXHixDSkjCHpUa9)
   * Thực đơn: các món ăn Việt Nam
   * Giá: $
   * Đánh giá:
-    * Bên trong có thể rất ồn ào -- nếu bạn không thích nhạc, hãy ngồi ngoài
+    * Bên trong có thể rất ồn -- nên ngồi ở ngoài nếu bạn không thích nhạc
     * Có các món chay
 * Sizzle Korean Barbecue
-  * Địa điểm: [3720 N Scottsdale Rd #200, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/mLQaK1nGJADtpNim8)
+  * Địa chỉ: [3720 N Scottsdale Rd #200, Scottsdale, AZ 85251, United States](https://goo.gl/maps/mLQaK1nGJADtpNim8)
   * Thực đơn: các món ăn Hàn Quốc
   * Giá: $$
   * Đánh giá
-    * Nhân viên phục vụ sẽ nấu món ăn tại bàn của bạn, nhưng bạn có thể yêu cầu tự làm
-    * Mì lạnh trộn sốt cay rất chua
+    * Nhân viên phục vụ sẽ nướng đồ ăn tại bàn cho bạn, nhưng bạn có thể yêu cầu tự nướng
+    * Món mì lạnh sốt cay (Spice paste cold noodle) rất chua
 * Hello Vietnam Pho & Roll
-  * Địa điểm: [2922 N Hayden Rd, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/WVuTRLf1135EM7Qa6)
+  * Địa chỉ: [2922 N Hayden Rd, Scottsdale, AZ 85251, United States](https://goo.gl/maps/WVuTRLf1135EM7Qa6)
   * Thực đơn: các món ăn Việt Nam
   * Giá: $
   * Đánh giá
-    * Nếu Phở Cao/Saigon Bowl không hợp khẩu vị của bạn, hãy thử quán này.
-    * Lần trước tôi ăn ở đây, phở mặn quá phải xin thêm nước nóng 🙃 -- [@prd-khoa-luu](https://github.com/prd-khoa-luu)
+    * Thử quán này nếu Phở Cao/Saigon Bowl không hợp khẩu vị của bạn.
+    * Lần trước ăn ở đây, phở mặn quá tôi phải xin thêm nước nóng 🙃 -- [@prd-khoa-luu](https://github.com/prd-khoa-luu)
 * HULA'S Modern Tiki Scottsdale
-  * Địa điểm: [7213 E 1st Ave, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/8qehYP7LmXVbdbiSA)
+  * Địa chỉ: [7213 E 1st Ave, Scottsdale, AZ 85251, United States](https://goo.gl/maps/8qehYP7LmXVbdbiSA)
   * Thực đơn: các món ăn Mỹ/Polynesia/Hawaii
   * Giá: $ - $$
   * Đánh giá
-    * Có thể đông khách vào bữa trưa và bữa tối, vì vậy bạn có thể cần đặt chỗ trước.
+    * Quán có thể đông vào bữa trưa và bữa tối, vì vậy bạn có thể cần đặt chỗ trước.
 * Schmooze
-  * Địa điểm: [4222 N Marshall Way, Scottsdale, AZ 85251, Hoa Kỳ](https://goo.gl/maps/itDKT8iZkHccrvUK7)
+  * Địa chỉ: [4222 N Marshall Way, Scottsdale, AZ 85251, United States](https://goo.gl/maps/itDKT8iZkHccrvUK7)
   * Thực đơn: đồ uống cà phê & đồ ăn nhẹ cho bữa sáng & bữa trưa
   * Giá: $
   * Đánh giá
-    * Thân thiện với công việc => Bạn có thể mang laptop đến đây
+    * Thân thiện với người làm việc => Bạn có thể mang laptop đến đây
     * Khu vườn đẹp và mát mẻ
 * Nhà hàng Da Vàng
-  * Địa điểm: [4538 N 19th Ave, Phoenix, AZ 85015, Hoa Kỳ](https://maps.app.goo.gl/kB7SU7Brs3mK63CH7)
+  * Địa chỉ: [4538 N 19th Ave, Phoenix, AZ 85015, United States](https://maps.app.goo.gl/kB7SU7Brs3mK63CH7)
   * Thực đơn: các món ăn Việt Nam
   * Giá: $
   * Đánh giá
     * Nhà hàng Việt Nam 40 năm tuổi, khá xa, nhưng phở và bún bò Huế rất ngon
 * Snakes & Lattes Tempe
-  * Địa điểm: [20 W 6th St, Tempe, AZ 85281, Hoa Kỳ](https://maps.app.goo.gl/s7BRJYc5JtXB4WV77)
+  * Địa chỉ: [20 W 6th St, Tempe, AZ 85281, United States](https://maps.app.goo.gl/s7BRJYc5JtXB4WV77)
   * Thực đơn: đồ ăn và thức uống kiểu Mỹ
   * Giá: $
   * Đánh giá
@@ -224,9 +224,9 @@ Chúng ta cùng bắt đầu nào!
   * Các nhãn hiệu riêng bao gồm Great Value (hàng tạp hóa và gia dụng), Equate (sức khỏe và sắc đẹp), và Sam’s Choice (đồ uống và đồ ăn vặt)
 
 * Costco
-  * Yêu cầu thẻ thành viên (liên hệ với chúng tôi 😉)
+  * Yêu cầu thẻ thành viên (liên hệ với tụi tôi 😉)
   * Chỉ chấp nhận thẻ tín dụng/ghi nợ Visa
-  * Không có túi, chỉ có hộp
+  * Không có túi đựng, chỉ có thùng carton
   * 1 thành viên có thể mang theo tối đa 2 khách người lớn (cộng với bất kỳ trẻ em nào) mỗi lần ghé thăm, nhưng chỉ thành viên mới có thể mua hàng tại quầy thanh toán.
   * Giờ mở cửa: 10 giờ sáng – 8 giờ 30 tối (Thứ Hai – Thứ Sáu), 9 giờ 30 sáng – 6 giờ chiều (Thứ Bảy), 10 giờ sáng – 6 giờ chiều (Chủ Nhật); đóng cửa vào một số ngày lễ
   * Nên mua
@@ -235,7 +235,7 @@ Chúng ta cùng bắt đầu nào!
     * Trái cây: nho, chuối, táo, lê, dưa hấu
     * Thịt: bò, lợn, gà
     * Hải sản: cá, tôm
-    * Các mặt hàng bánh nướng: bánh ngọt, bánh quy, bánh ngọt (bánh danish nhân táo x2, hoặc bất kỳ **2** gói 4 chiếc nào), bánh quy xoắn, món tráng miệng
+    * Các mặt hàng bánh nướng: bánh ngọt, bánh quy, bánh ngọt (bánh danish nhân táo x2, hoặc bất kỳ **2** lốc 4 cái nào), bánh quy xoắn, món tráng miệng
     * Sữa & các sản phẩm từ sữa
     * Trứng
     * Nước
@@ -481,7 +481,7 @@ Chúng ta cùng bắt đầu nào!
   * Hoặc bạn có thể thử [Các trường bắn ở Arizona](https://www.tripadvisor.com/Attractions-g28924-Activities-c56-t210-Arizona.html)
   * Phí: $$$
 
-## Địa điểm du lịch
+## Điểm tham quan du lịch
 * Thủy cung Odysea
   * Địa điểm: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, Hoa Kỳ](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
   * Phí: $$
@@ -504,9 +504,9 @@ Chúng ta cùng bắt đầu nào!
   * Địa điểm: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, Hoa Kỳ](https://goo.gl/maps/jRm2TJf38BAqiARA9)
   * Trung tâm mua sắm ngoài trời với các nhà bán lẻ quốc gia, nhà hàng, nhạc sống vào cuối tuần & đài phun nước vui chơi cho trẻ em
   * Hoạt động chính
-    * Mua sắm: quần áo (Ross), đồ điện tử (Best Buy), mỹ phẩm (SEPHORA), kem dưỡng & xà phòng (Bath & Body Works), sách (Barnes & Noble)
+    * Mua sắm: quần áo (Ross), đồ điện tử (Best Buy), mỹ phẩm (SEPHORA), sữa dưỡng thể & xà phòng (Bath & Body Works), sách (Barnes & Noble)
     * Ăn uống
-    * Đi dạo (đi dạo và tận hưởng không gian xung quanh)
+    * Đi dạo (đi bộ và tận hưởng không gian xung quanh)
 
 * Fashion Square
   * Địa điểm: [Scottsdale, AZ 85251, Hoa Kỳ](https://maps.app.goo.gl/ycCcEFDZ9Ym1NAyP9)
@@ -593,23 +593,23 @@ Chúng ta cùng bắt đầu nào!
   * Địa điểm: [Vườn Quốc gia Grand Canyon, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
 
 * Ngoài Arizona
-  * Thành phố New York: Các địa danh mang tính biểu tượng (Tượng Nữ thần Tự do, Tòa nhà Empire State, Công viên Trung tâm, Quảng trường Thời đại), các bảo tàng đẳng cấp thế giới, các khu phố đa dạng (Khu phố Tàu, Harlem, Williamsburg)
-  * San Francisco: Cầu Cổng Vàng, các khu phố đa dạng (Khu phố Tàu, Khu Mission), Đảo Alcatraz, Bến Ngư phủ, xe cáp treo lịch sử, trụ sở và khuôn viên của các công ty công nghệ lớn (ở San Jose)
-  * Chicago: Kiến trúc nổi tiếng (Tháp Willis, các ngôi nhà của Frank Lloyd Wright), các điểm tham quan ven hồ (Bến tàu Navy, Công viên Millennium), và một khung cảnh nghệ thuật và sân khấu phát triển mạnh
-  * Seattle: Văn hóa cà phê (nơi khai sinh của Starbucks, các quán cà phê độc lập), Chợ Pike Place (hải sản tươi sống, cá bay), bờ sông tuyệt đẹp, Tháp Space Needle
-  * Boston: Lịch sử phong phú (Đường mòn Tự do, Nhà Paul Revere, Tàu Tiệc trà Boston), trung tâm thành phố dễ đi bộ, các trường đại học hàng đầu (Harvard, MIT), và các khu phố quyến rũ (Beacon Hill)
-  * Los Angeles: Các địa danh nổi tiếng thế giới (Biển hiệu Hollywood, Đại lộ Danh vọng Hollywood, Nhà hát Trung Hoa Grauman), các khu phố sôi động (Bãi biển Venice, Bến tàu Santa Monica, Beverly Hills cao cấp), các di tích lịch sử (Phố Olvera, Tháp Watts), Đài thiên văn Griffith
+  * Thành phố New York: Các địa danh mang tính biểu tượng (Tượng Nữ thần Tự do, Tòa nhà Empire State, Công viên Trung tâm, Quảng trường Thời đại), bảo tàng đẳng cấp thế giới, các khu phố đa dạng (Chinatown, Harlem, Williamsburg)
+  * San Francisco: Cầu Cổng Vàng, các khu phố đa dạng (Chinatown, Mission District), Đảo Alcatraz, Bến Ngư Phủ (Fisherman’s Wharf), xe cáp lịch sử, trụ sở và khuôn viên các công ty công nghệ lớn (ở San Jose)
+  * Chicago: Kiến trúc nổi tiếng (Tháp Willis, nhà của Frank Lloyd Wright), các điểm tham quan ven hồ (Bến tàu Navy, Công viên Thiên niên kỷ), và nền nghệ thuật và sân khấu sôi động
+  * Seattle: Văn hóa cà phê (nơi khai sinh Starbucks, các quán cà phê độc lập), Chợ Pike Place (hải sản tươi sống, cá bay), bờ sông đẹp như tranh vẽ, Tháp Space Needle
+  * Boston: Lịch sử phong phú (Đường mòn Tự do - Freedom Trail, Nhà Paul Revere, Tàu và Bảo tàng Tiệc trà Boston), trung tâm thành phố dễ đi bộ, các trường đại học hàng đầu (Harvard, MIT), và các khu phố duyên dáng (Beacon Hill)
+  * Los Angeles: Các địa danh nổi tiếng thế giới (Biển hiệu Hollywood, Đại lộ Danh vọng Hollywood, Nhà hát Trung Hoa Grauman), các khu phố sôi động (Bãi biển Venice, Bến tàu Santa Monica, khu Beverly Hills cao cấp), các địa điểm lịch sử (Phố Olvera, Tháp Watts), Đài thiên văn Griffith
 
 ## Phong tục/truyền thống/thói quen
 * Ăn ngoài
   * Ở Mỹ, các nhà hàng thức ăn nhanh thường cho phép khách tự phục vụ đồ uống có ga miễn phí. Điều này có nghĩa là bạn thường có thể tự rót thêm đồ uống yêu thích nhiều lần mà không phải trả thêm phí.
   * Khi bạn vào một nhà hàng bình dân (như Applebee's, Olive Garden, hoặc Chili's), nhân viên phục vụ có thể hỏi bạn "dine-in or takeout?" (ăn tại chỗ hay mang đi?). Điều đó có nghĩa là họ đang hỏi bạn muốn ngồi xuống và thưởng thức bữa ăn tại nhà hàng ("dine in" hoặc "eat in") hay đặt món ăn để đóng gói và mang đi ăn ở nơi khác ("takeout" hoặc "takeaway" hoặc "to go").
-  * Khách hàng thường được kỳ vọng sẽ tự dọn khay và bỏ rác tại các chuỗi cửa hàng thức ăn nhanh (ví dụ: McDonald's, Chick-fil-A, Burger King, KFC, In-N-Out, Arby's, Wendy's)
+  * Khách hàng cần tự dọn khay và bỏ rác của mình tại các chuỗi cửa hàng thức ăn nhanh (ví dụ: McDonald's, Chick-fil-A, Burger King, KFC, In-N-Out, Arby's, Wendy's)
 
-* Tiền tip (boa)
+* Tiền tip/boa
   * Văn hóa tiền tip
     * Tiền tip không bắt buộc về mặt pháp lý, nhưng được xã hội kỳ vọng ở nhiều cơ sở dịch vụ, với mức 15-20% là tiêu chuẩn
-    * Nếu bạn không đủ khả năng tip, bạn không đủ khả năng đi ăn ngoài
+    * Nếu bạn không đủ khả năng tip thì bạn đừng đi ăn ngoài
     * Nếu đồ ăn dở thì sao? --> Tiền tip là cho dịch vụ, không phải chất lượng đồ ăn; hãy cân nhắc tip bình thường và trình bày vấn đề đồ ăn với quản lý hoặc nhà bếp
     * Tip 10% hoặc ít hơn nếu dịch vụ thực sự tệ -- nhưng hiếm khi không tip gì trừ khi dịch vụ cực kỳ tồi tệ và bạn đã nói chuyện với quản lý
   * Số tiền
@@ -621,14 +621,14 @@ Chúng ta cùng bắt đầu nào!
     * Bạn không thể từ chối thanh toán phí phục vụ tự động vì đây là phí dịch vụ
     * Bạn có thể tip thêm vài đô la nếu dịch vụ tuyệt vời
   * Khi bạn thanh toán bằng thẻ tín dụng trong nhà hàng, quy trình diễn ra như sau
-    * Bạn yêu cầu nhân viên phục vụ mang hóa đơn (check/bill) - xem [Hội thoại cơ bản - Trong nhà hàng - Yêu cầu hóa đơn](#hoi-thoai-co-ban)
+    * Bạn yêu cầu nhân viên phục vụ mang hóa đơn (check/bill) - xem [Hội thoại cơ bản - Trong nhà hàng - Yêu cầu hóa đơn](#hội-thoại-cơ-bản)
     * Bạn nhận hóa đơn, kiểm tra các món hàng, và đặt thẻ của bạn lên đó
     * Nhân viên phục vụ sẽ lấy thẻ của bạn và quay lại với một biên lai và một cây bút
     * Bạn viết số tiền tip, tính tổng, và ký tên
     * Đừng quên lấy biên lai và/hoặc chụp ảnh lại trước khi rời đi
     * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/2a8583cf-f906-4eb6-9c74-205e90e51b5c" width="50%">
   * Đối với các dịch vụ khác
-    * Thợ cắt tóc/làm tóc: 15–20% hóa đơn
+    * Cắt tóc/làm tóc: 15–20% hóa đơn
     * Hướng dẫn viên du lịch: đối với các tour địa phương, 5–10 đô la mỗi người cho nhóm nhỏ, 2–5 đô la cho nhóm lớn; đối với các tour cả ngày hoặc nhiều ngày, 8–10 đô la mỗi ngày mỗi người
     * Sân bowling: tùy chọn 1–2 đô la; tip cho nhân viên quầy đồ ăn nhẹ hoặc quầy bar như những nơi khác
     * Nhân viên pha chế rượu: 1 đô la mỗi đồ uống, nhiều hơn cho các loại cocktail phức tạp hoặc nhóm lớn
@@ -649,18 +649,18 @@ Chúng ta cùng bắt đầu nào!
   * Tuổi uống rượu hợp pháp là 21 (có nghĩa là bạn không thể mua, nhận, sở hữu hoặc tiêu thụ rượu trước 21 tuổi)
   * Có khả năng bạn sẽ được yêu cầu xuất trình giấy tờ tùy thân trước khi mua bia
 
-* Đi bar liên tục (Barhopping)
+* Barhopping (Đi nhiều quán bar liên tiếp)
   * Định nghĩa: hoạt động đến nhiều quán bar liên tiếp, uống một ly ở mỗi quán
   * Vui, nhưng không khuyến khích 😺
 
 * Mua sắm và giao hàng trực tuyến
   * Giao hàng đến khu căn hộ
-    * Các thành phần địa chỉ bắt buộc: tên đầy đủ của người nhận, địa chỉ đường phố với số căn hộ (điều này rất cần thiết!), thành phố, tiểu bang, mã ZIP, và bất kỳ hướng dẫn truy cập cần thiết nào
+    * Các thành phần địa chỉ bắt buộc: tên đầy đủ của người nhận, địa chỉ đường phố với số căn hộ (điều này rất cần thiết!), thành phố, tiểu bang, mã ZIP, và bất kỳ hướng dẫn cần thiết nào
     * Sử dụng dịch vụ nhận bưu kiện: nhận email hoặc tin nhắn thông báo từ hệ thống (hoặc được chuyển tiếp bởi văn phòng cho thuê/National Corporate Housing) --> Quét mã QR hoặc sử dụng ứng dụng --> lấy bưu kiện sau khi cửa tủ khóa mở --> đóng cửa tủ khóa
   * Nhận hàng tại tủ khóa (ví dụ: Amazon Locker)
     * Các điểm nhận hàng tự phục vụ đặt tại các khu vực công cộng (trung tâm thương mại, nhà ga)
     * Hữu ích cho sự riêng tư hoặc thời gian nhận hàng linh hoạt
-  * Địa chỉ nhà (cho ngôi nhà)
+  * Địa chỉ nhà riêng (cho ngôi nhà Airbnb)
     * Các gói hàng thường được để ở cửa trước, và ảnh bằng chứng giao hàng có thể được gửi cho bạn qua ứng dụng hoặc email
     * Một số gói hàng có thể được giấu trong nhà để xe (bên trái nhà, sau thùng rác)
     * Các gói hàng có giá trị cao có thể yêu cầu giấy tờ tùy thân
@@ -680,12 +680,12 @@ Chúng ta cùng bắt đầu nào!
     * Nếu bạn dự đoán sẽ bị trễ, hãy thông báo cho tài xế qua ứng dụng hoặc gọi điện thoại.
     * Kiểm tra kỹ địa điểm đón của bạn. Sử dụng tính năng "ghi chú" nếu cần.
     * Hủy chuyến: Nếu bạn cần hủy chuyến, hãy hủy càng sớm càng tốt. Lưu ý rằng hủy quá muộn có thể bị tính phí.
-  * Chào hỏi & cảm ơn: xem [Hội thoại cơ bản - Trong xe Uber](#hoi-thoai-co-ban)
+  * Chào hỏi & cảm ơn: xem [Hội thoại cơ bản - Trong xe Uber](#hội-thoại-cơ-bản)
   * Trong suốt chuyến đi
-    * Điều đầu tiên, luôn thắt dây an toàn
-    * Ngồi ở ghế sau trừ khi xe đã đầy. Nếu bạn thích ngồi ghế trước, hãy hỏi tài xế xem có được không -- [Hội thoại cơ bản - Trong xe Uber](#hoi-thoai-co-ban).
+    * Việc đầu tiên là luôn thắt dây an toàn
+    * Ngồi ở ghế sau trừ khi xe đã đầy. Nếu bạn thích ngồi ghế trước, hãy hỏi tài xế xem có được không -- [Hội thoại cơ bản - Trong xe Uber](#hội-thoại-cơ-bản).
   * Tiền tip & đánh giá
-    * Tiền tip không được mong đợi nhiều như ở nhà hàng, nhưng rất được cảm kích. 1 đô la có lẽ là ổn cho các chuyến đi ngắn, nếu không thì 10-15% giá vé.
+    * Tiền tip không được mong đợi nhiều như ở nhà hàng, nhưng nên làm để tránh bị tài xế đánh giá lại thấp. $1-$2 cho các chuyến đi ngắn, còn hơn thì 10-15% tiền phí.
     * Hãy cho 5 sao nếu chuyến đi suôn sẻ và không có vấn đề gì
 
 * Những điều cơ bản về khách sạn
@@ -704,8 +704,8 @@ Chúng ta cùng bắt đầu nào!
 ## Mẹo vặt đời sống hàng ngày
 
 ### Chăm sóc cá nhân
-* Uống đủ nước: Uống nhiều nước, vì khí hậu khô của Arizona làm tăng nguy cơ mất nước
-* Chống nắng: Nếu bạn dành nhiều thời gian ở ngoài trời, hãy sử dụng kem chống nắng (SPF 30+), đội mũ, đeo kính râm và mặc quần áo bảo hộ
+* Bổ sung nước: Uống nhiều nước, vì khí hậu khô của Arizona làm tăng nguy cơ mất nước
+* Chống nắng: Nếu bạn dành nhiều thời gian ở ngoài trời, hãy sử dụng kem chống nắng (SPF 30+), đội mũ, đeo kính râm và mặc quần áo dài, áo khoác
 * Chăm sóc da: Sử dụng kem dưỡng thể thường xuyên để ngăn ngừa da khô, nứt nẻ và chảy máu, đặc biệt là trong khí hậu khô của Arizona
 
 ### Thanh toán & hóa đơn
@@ -722,7 +722,7 @@ Chúng ta cùng bắt đầu nào!
 * Thuế bán hàng: Dự kiến thuế bán hàng từ 8–10% sẽ được cộng vào khi thanh toán, không hiển thị trên thẻ giá hoặc thực đơn
   * <img src="https://github.com/user-attachments/assets/4bc35a74-fe90-406d-9643-eae1e9ca4016" width="25%">
   * Lưu ý: Hàng tạp hóa thường bị đánh thuế ở mức thấp hơn so với các hàng hóa khác.
-* Quy tắc ước tính giá tăng thêm
+* Quy tắc ước tính giá cuối cùng (so với giá niêm yết)
 
 | Loại hình mua sắm      | Cộng thêm % này vào giá | Ví dụ (cho hóa đơn 100$)       | Ghi chú                                  |
 | -------------------- | ----------------------- | ------------------------------- | ---------------------------------------- |
@@ -749,16 +749,16 @@ Chúng ta cùng bắt đầu nào!
     * 70°F ≈ 20°C
     * 90°F ≈ 30°C
     * 104°F ≈ 40°C
-* Thời gian: Hầu hết Arizona luôn theo Giờ Chuẩn Miền Núi (MST, UTC-7), và không áp dụng [quy ước giờ mùa hè](https://en.wikipedia.org/wiki/Daylight_saving_time)
+* Thời gian: Hầu hết Arizona luôn theo Mountain Standard Time (MST, UTC-7), và không áp dụng [quy ước giờ mùa hè](https://en.wikipedia.org/wiki/Daylight_saving_time)
   * Mùa đông (tháng 11 - tháng 3)
-    * Trước California 1 giờ (PST, UTC-8)
-    * Sau Chicago 1 giờ (CST, UTC−6)
-    * Sau New York 2 giờ (EST, UTC−5)
+    * Sớm hơn California 1 giờ (PST, UTC-8)
+    * Trễ hơn Chicago 1 giờ (CST, UTC−6)
+    * Trễ hơn New York 2 giờ (EST, UTC−5)
   * Mùa hè (tháng 3 – tháng 11)
     * Giống California (PDT, UTC-7)
-    * Sau Chicago 2 giờ (CDT, UTC-5)
-    * Sau New York 3 giờ (EDT, UTC−4)
-  * Arizona luôn sau Việt Nam 14 giờ (UTC+7)
+    * Trễ hơn Chicago 2 giờ (CDT, UTC-5)
+    * Trễ hơn New York 3 giờ (EDT, UTC−4)
+  * Arizona luôn trễ hơn Việt Nam 14 giờ (UTC+7)
 
 ### Tên địa phương có cách phát âm khác thường
 
@@ -802,7 +802,7 @@ Chúng ta cùng bắt đầu nào!
 
 ## SOS (Trường hợp khẩn cấp)
 * Hộ chiếu bị hỏng/mất:
-  * Nhờ nhân viên Nhân sự hỗ trợ (liên hệ hochieu@vietnamembassy.us)
-* Cấp cứu y tế (thương tích hoặc bệnh tật)
+  * Nhờ nhân viên Nhân sự (HR) hỗ trợ (liên hệ hochieu@vietnamembassy.us)
+* Trường hợp khẩn cấp về sức khỏe (thương tích hoặc bệnh tật)
   * Làm theo hướng dẫn của công ty về Sức khỏe và Bảo hiểm
-  * Đừng đến bệnh viện trừ khi bạn thực sự bị bệnh nặng; thay vào đó, hãy đến Trung tâm Chăm sóc Khẩn cấp (Urgent Care)
+  * Đừng đến bệnh viện (hospital) trừ khi bạn thực sự bị bệnh nặng; thay vào đó, hãy đến Phòng khám Chăm sóc Khẩn cấp (Urgent Care)
