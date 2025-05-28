@@ -1,7 +1,7 @@
 # A guide to staying in Arizona 🌵
 
 *:boom: Below is an **AI-generated** discussion based on this guide's content.*
-<video src="https://github.com/user-attachments/assets/99f1a3ad-9f77-429d-ba7b-a1e73c3bebf0" controls="controls"></video>
+<video src="https://github.com/user-attachments/assets/37d54759-5980-4d81-ae2c-dfc535fa5505" controls="controls"></video>
 
 *:boom: An **AI-generated** Vietnamese version of this guide and its discussion are also available at [README.vi.md](README.vi.md).*
 
@@ -66,7 +66,7 @@ Let's dive in!
     * Uber vouchers do not work for Lime rentals.
 
 * Bike
-  * <details><summary>Biking - using HAWK beacon</summary><video src="https://github.com/user-attachments/assets/42cf23f1-6a3e-474c-a6d5-676df006a28a" controls="controls"></video></details>
+  * <details><summary>Biking - using HAWK beacon</summary><video src="https://github.com/user-attachments/assets/627d5022-bb9f-46e3-8032-ae42e835dc3d" controls="controls"></video></details>
   * Sponsored by Paradox 🎉
   * Ride in bike lanes or on sidewalks
   * On sidewalks (in Scottsdale): you can ride in either direction, but have to yield to pedestrians
@@ -303,7 +303,7 @@ Let's dive in!
 * Biking/running
 
 * Hiking – Papago Park Trails & Hole in the rock
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%"><img src="https://github.com/user-attachments/assets/01f51eb2-6e99-494d-b02d-2c8e0608f9a4" width="50%">
+  * <img src="https://github.com/user-attachments/assets/029c6a86-7761-404c-91b6-c250d21994b8" width="50%"><img src="https://github.com/user-attachments/assets/8f87b951-0350-4a0a-8c8e-689222e52395" width="50%">
   * Location: [625 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://maps.app.goo.gl/CK2m92hDtzeC3Qc18) (multiple trailheads)
   * Difficulty Level: Easy
   * Trails: Multiple options
@@ -331,7 +331,7 @@ Let's dive in!
     * Guide: [Papago Park Trails | City of Phoenix](https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/papago-park/papago-trails.html)
 
 * Hiking - Camelback
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a7372d16-da4e-4e61-adb5-0c7a1ee3d936" width="50%">
+  * <img src="https://github.com/user-attachments/assets/ccc5c4a5-84b0-4126-992f-e7a0fd774a99" width="50%">
   * <details><summary>View from Camelback summit</summary><video src="https://github.com/user-attachments/assets/20fd097f-bb1c-479f-b8d4-36509e345aab" controls="controls"></video></details>
   * Location: [Phoenix, AZ 85018, United States](https://maps.app.goo.gl/pZQZ2cxAtu7cY5PX8)
   * Difficulty Level: Extremely difficult, challenging (not recommended for beginners or young children)
@@ -495,13 +495,13 @@ Let's dive in!
   * Location: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, United States](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
   * Fee: $$
   * Tickets can be booked online - https://www.odyseaaquarium.com/
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/c0e6a866-1157-49e2-851a-c83ef9dde3d9" width="25%">
+  * <img src="https://github.com/user-attachments/assets/ad4ed81f-e3aa-40f3-af2c-38c58322b123" width="25%">
 
 * Phoenix Zoo
   * Location: [455 N Galvin Pkwy, Phoenix, AZ 85008, United States](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
   * Fee: $$
   * Tickets can be booked online - https://www.phoenixzoo.org/visit/
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="25%"> :flushed:
+  * <img src="https://github.com/user-attachments/assets/f1a6ff51-1a6c-40ff-849e-d49c5eb6e763" width="25%"> :flushed:
 
 * Museum of Illusions Scottsdale
   * Location: [9500 East Vía de Ventura, Scottsdale, AZ 85256, United States](https://maps.app.goo.gl/sJK3akZta6RBCnFT6)
@@ -526,8 +526,8 @@ Let's dive in!
     * Entertainment: Harkins Theatres, special events (e.g., Lunar New Year), luxury fitness center, and strolling the luxury wings
 
 * Old Town Scottsdale
-  * <img src="https://github.com/user-attachments/assets/31d4507c-6ed0-4949-adf2-4e79e462ab0e" width="25%">
-  * <details><summary>A corner of Old Town Scottsdale</summary><video src="https://github.com/user-attachments/assets/a95997f3-79ad-41d6-886d-a9230aa08e22" controls="controls"></video></details>
+  * <img src="https://github.com/user-attachments/assets/f6b9a48e-f0e5-4550-8219-082e5b4a9a5d" width="25%">
+  * <details><summary>A corner of Old Town Scottsdale</summary><video src="https://github.com/user-attachments/assets/c191c28b-9544-4894-9c0a-375583b6147b" controls="controls"></video></details>
   * Location: [Old Town Scottsdale, Scottsdale, AZ 85281, United States](https://maps.app.goo.gl/N9owM729efWmGVRm8)
   * Main activities
     * Shopping: souvenirs, arts
@@ -537,7 +537,7 @@ Let's dive in!
     * Strolling
  
 * Downtown Mesa
-  * <details><summary>A temple in Downtown Mesa</summary><video src="https://github.com/user-attachments/assets/91ec750b-5934-4982-8bc8-0cbac1797fc2" controls="controls"></video></details>
+  * <details><summary>A temple in Downtown Mesa</summary><video src="https://github.com/user-attachments/assets/b775397a-94bd-4d43-8f53-8ab3557f35a3" controls="controls"></video></details>
   * Part of the Valley Metro Light Rail Corridor
   * Location: [Downtown Mesa, Mesa, AZ, USA](https://maps.app.goo.gl/L5nvFDf4NvY2HyMa7)
   * Vibrant Arts Scene
@@ -568,9 +568,9 @@ Let's dive in!
     * Public Art Installations: Murals and sculptures throughout the area
   * Education & Community
     * Arizona State University (ASU): Major influence with student life, research, and events
-    * <img src="https://github.com/user-attachments/assets/d87b2a15-8802-4d38-b634-b7b4bd5e32aa" width="25%">
+    * <img src="https://github.com/user-attachments/assets/e7f516da-8416-4782-8e81-1971d9872165" width="25%">
     * Festivals: Annual events like the Tempe Festival of the Arts and the Arizona Aloha Festival
-    * <img src="https://github.com/user-attachments/assets/aa8b84ac-f805-481a-9d70-3e3349b770c7" width="50%">
+    * <img src="https://github.com/user-attachments/assets/f78ee8a2-2253-4df5-989f-1ba7f8c80bf3" width="50%">
 
 * Downtown Phoenix
   * Part of the Valley Metro Light Rail Corridor
@@ -585,20 +585,20 @@ Let's dive in!
     * Roosevelt Row: Arts district with galleries, murals, and First Fridays art walks
     * Phoenix Art Museum: Largest art museum in the Southwest
   * Business & Transportation
-    * <img src="https://github.com/user-attachments/assets/1dd425b4-4ae6-41ce-8708-4618c333cf33" width="25%">
+    * <img src="https://github.com/user-attachments/assets/9b9b7cd8-bfde-47dd-aa77-1b7ae310e11f" width="25%">
     * Corporate Offices: Major companies and government buildings
     * Transportation Hub: Light rail connects to Tempe, Mesa, and beyond
-    * <details><summary>Light rail running through Downtown Phoenix</summary><video src="https://github.com/user-attachments/assets/a0a1f009-7094-416b-9dbf-ea22585e942a" controls="controls"></video></details>
+    * <details><summary>Light rail running through Downtown Phoenix</summary><video src="https://github.com/user-attachments/assets/f072374f-0849-49f2-8762-edcfff7a515e" controls="controls"></video></details>
 
 * Sedona
-  * <details><summary>Uptown Sedona</summary><video src="https://github.com/user-attachments/assets/22fd2fcd-1d64-4380-b04a-469e50532b8c" controls="controls"></video></details>
+  * <details><summary>Uptown Sedona</summary><video src="https://github.com/user-attachments/assets/51e310c7-f2cf-4f0a-b2c5-334b0e7720f0" controls="controls"></video></details>
   * Location: [Sedona, Arizona 86336](https://maps.app.goo.gl/xqKapGSrQttcN6EEA)
 
 * Flagstaff
   * Location: [Flagstaff, Arizona, USA](https://maps.app.goo.gl/iMthy7MTPeNwdomG6)
 
 * Grand Canyon
-  * <details><summary>Grand Canyon from the top</summary><video src="https://github.com/user-attachments/assets/1f8c4432-645c-4226-9224-4dfc42381788" controls="controls"></video></details>
+  * <details><summary>Grand Canyon from the top</summary><video src="https://github.com/user-attachments/assets/b52f5867-a6d1-4858-a4ef-2438949cd9f0" controls="controls"></video></details>
   * Location: [Grand Canyon National Park, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
 
 * Beyond Arizona
@@ -635,7 +635,7 @@ Let's dive in!
     * The server will take your card and come back with a receipt and a pen
     * You write down the tip, do the math, and sign
     * Don't forget to take the receipt and/or a picture of it before leaving
-    * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/2a8583cf-f906-4eb6-9c74-205e90e51b5c" width="50%">
+    * <img src="https://github.com/user-attachments/assets/f16859c6-4c1c-4ac7-b7b5-e05df4fe9e73" width="50%">
   * For other services
     * Barber/haircut: 15–20% of the bill
     * Tour guides: for local tours, $5–$10 per person for small groups, $2–$5 for large groups; for all-day or multi-day tours, $8–$10 per day per person
