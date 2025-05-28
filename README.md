@@ -24,7 +24,8 @@ Let's dive in!
   * Notes
     * The walls are not soundproof
     * During a fire alarm, gather key items and exit to the ground level
-  * <img src="https://github.com/user-attachments/assets/767c6ab0-2d79-4063-9567-a5351ec06e96" width="50%">
+  * <img src="https://github.com/user-attachments/assets/27828ecb-b5d9-46f4-ae41-12cbfb9fecf7" width="50%">
+
 * The Canopy hotel (temporary/short-term place)
   * On-site restaurant
   * 6 minutes to the office
@@ -44,7 +45,7 @@ Let's dive in!
   * Download the app and put in your credit card info to use
   * Remember to wear your seatbelt when sitting in the front seat (and the back seat as well if riding Waymo)
   * Waymo
-    * <details><summary>Waymo making a turn</summary><video src="https://github.com/user-attachments/assets/93909fa9-ec83-4762-ab0c-61ca36c9c6f5" controls="controls"></video></details>
+    * <details><summary>Waymo making a turn</summary><video src="https://github.com/user-attachments/assets/a1484767-f946-4677-98f2-9b6aa3b6a8d4" controls="controls"></video></details>
     * Google's self-driving [electric] car service
     * Available in most of the Phoenix-Scottsdale–Tempe-Mesa area
     * Almost always has the best prices compared to the rest
@@ -57,7 +58,7 @@ Let's dive in!
     * If your card is charged when using an Uber voucher, it’s usually just a temporary hold that will be released after the trip.
 
 * Scooter (Lime/Spin/Bird)
-  * <details><summary>Riding Lime's</summary><video src="https://github.com/user-attachments/assets/01f0e4d6-753e-4e17-a07d-b627d8490f13" controls="controls"></video></details>
+  * <details><summary>Riding Lime's</summary><video src="https://github.com/user-attachments/assets/377b6058-4ef0-482f-934c-2b48914e12e0" controls="controls"></video></details>
   * Download the app and put in your credit card info to use
   * You can put your phone in the phone holder
   * Lime
@@ -79,12 +80,12 @@ Let's dive in!
   * Jaywalking is not illegal, so 🚶; but try to use crosswalks when possible
 
 * Valley Metro Rail (and buses)
-  * <img src="https://github.com/user-attachments/assets/9190d243-f7d3-4d41-9511-a048a90c87fd" width="25%">
+  * <img src="https://github.com/user-attachments/assets/896adc77-265d-4a99-80c7-4989f564ed3b" width="25%">
   * Light rail connects downtown Phoenix, Tempe, and Mesa -- perfect for exploring
   * Download the Valley Metro app, add your credit card, and load $4, which covers unlimited rides all day
   * Remember: always scan before boarding the train; fare checks do happen
 * Airplane
-  * <img src="https://github.com/user-attachments/assets/8920c027-5bee-4ad1-bfa0-b0634acda73a" width="25%">
+  * <img src="https://github.com/user-attachments/assets/ab01466c-f748-4197-8312-9a0984d4bb88" width="25%">
   * For flying to other states
   * Booking: research flights on Google Flights (https://www.google.com/travel/flights), then book directly through the airline’s website or app
   * Look for the terminal before booking an Uber to the [PHX] airport
@@ -357,7 +358,7 @@ Let's dive in!
     * Guide: [Camelback Hiking & Biking | Hike Echo Canyon Trail & Cholla Trail](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
 
 * Hiking – Pinnacle Peak
-  * <details><summary>Hiking the Pinnacle Peak Trail</summary><video src="https://github.com/user-attachments/assets/ed27b907-4334-449f-ac26-98bc5da54d8a" controls="controls" width="320px"></video></details>
+  * <details><summary>Hiking the Pinnacle Peak Trail</summary><video src="https://github.com/user-attachments/assets/f941bb2b-0e53-45b4-982f-874b39bd636b" controls="controls" width="320px"></video></details>
   * Location: [Scottsdale, AZ 85262, United States](https://maps.app.goo.gl/9fZtHy2EU5iUafuY8)
     * Direction: https://maps.app.goo.gl/fiUfJ51RnaFGiKs88
   * Difficulty Level: Easy to moderate
@@ -401,8 +402,8 @@ Let's dive in!
     * Guide: [Piestewa Peak Hike | Everything You Need to Know](https://gohikeaz.com/piestewa-peak-hike/)
 
 * Hiking – Tom’s Thumb Trail
-  * <img src="https://github.com/user-attachments/assets/cc92d7aa-0f81-48b2-9319-5390f1ec7c43" width="25%">
-  * <details><summary>Tom’s Thumb</summary><video src="https://github.com/user-attachments/assets/c4e0d74c-8f84-4f5d-91a9-955ea01024c2" controls="controls"></video></details>
+  * <img src="https://github.com/user-attachments/assets/6626cea6-721e-4d20-9837-148a99aed1aa" width="25%">
+  * <details><summary>Tom’s Thumb</summary><video src="https://github.com/user-attachments/assets/102521e8-3cda-4fce-98e0-2be48e2ae997" controls="controls"></video></details>
   * Location: [Tom's Thumb Trail, Scottsdale, AZ 85255, United States](https://maps.app.goo.gl/3zjDAuMtfTLgCUp67)
     * Direction: https://maps.app.goo.gl/r1kScdoTK6ke8Kaa9
   * Difficulty Level: Moderate to strenuous (challenging for some, especially first mile)
@@ -426,7 +427,7 @@ Let's dive in!
     * Guide: [Tom’s Thumb Trail In Scottsdale- All You Need To Know](https://thekarabou.com/tom-s-thumb/)
 
 * Hiking – Gateway Loop Trail
-  * <details><summary>Hiking Gateway Loop Trail from trailhead</summary><video src="https://github.com/user-attachments/assets/bab8b033-1463-4763-9d7d-1123f8b1cc23" controls="controls"></video></details>
+  * <details><summary>Hiking Gateway Loop Trail from trailhead</summary><video src="https://github.com/user-attachments/assets/8f4abc38-1f7c-4bcc-911a-a22d1955f6e1" controls="controls"></video></details>
   * Location: [Scottsdale, AZ 85255, USA](https://maps.app.goo.gl/YjpU1nrjaAMwSUU96)
     * Direction: https://maps.app.goo.gl/nkdstybossowh9fb6
   * Difficulty Level: Moderate
@@ -508,7 +509,7 @@ Let's dive in!
   * Tickets can be booked online - http://www.moiscottsdale.com/
 
 * Tempe Marketplace
-  * <img src="https://github.com/user-attachments/assets/c35d8f72-6939-4a82-b607-b42abeaa7f9e" width="25%"><img src="https://github.com/user-attachments/assets/fc0a62e1-ff0d-4961-8fb1-bc7f8ecda3b5" width="25%">
+  * <img src="https://github.com/user-attachments/assets/ea32ef7c-86dc-46ed-8272-59ba29eb1c37" width="25%"><img src="https://github.com/user-attachments/assets/8a3b0c69-9b73-446a-8117-8ed18ffb7419" width="25%">
   * Location: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, United States](https://goo.gl/maps/jRm2TJf38BAqiARA9)
   * Outdoor mall with national retailers, dining, live music on weekends & a play fountain for kids
   * Main activities
@@ -728,7 +729,7 @@ Let's dive in!
   * Even or itemized: For similar orders, split evenly
   * Cash is easiest: Bring small bills to make splitting simple
 * Sales tax: Expect 8–10% sales tax added at checkout, not shown on price tags or menus
-  * <img src="https://github.com/user-attachments/assets/4bc35a74-fe90-406d-9643-eae1e9ca4016" width="25%">
+  * <img src="https://github.com/user-attachments/assets/23c3ceb4-65a1-4e55-8a1a-c9835b8bfe26" width="25%">
   * Note: Groceries are often taxed at a lower rate than other goods.
 * Price markup rule of thumb
 
