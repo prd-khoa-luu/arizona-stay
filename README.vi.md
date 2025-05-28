@@ -1,7 +1,7 @@
 # Cẩm nang lưu trú tại Arizona 🌵
 
 *:boom: Dưới đây là phiên bản thảo luận **do AI tạo ra** dựa trên nội dung của cẩm nang hướng dẫn này.*
-<video src="https://github.com/user-attachments/assets/e14471da-1de5-420c-a4b6-3acc6e519009" controls="controls"></video>
+<video src="https://github.com/user-attachments/assets/7e3b388e-1b9c-4c76-988a-78b48f6ab9c7" controls="controls"></video>
 
 <br />
 
@@ -22,7 +22,7 @@ Chúng ta cùng bắt đầu nào!
   * Lưu ý
     * Tường không cách âm
     * Khi có báo cháy, hãy thu thập các vật dụng quan trọng và thoát xuống tầng trệt
-  * <img src="https://github.com/user-attachments/assets/767c6ab0-2d79-4063-9567-a5351ec06e96" width="50%">
+  * <img src="https://github.com/user-attachments/assets/27828ecb-b5d9-46f4-ae41-12cbfb9fecf7" width="50%">
 * Khách sạn Canopy (chỗ ở tạm thời/ngắn hạn)
   * Có nhà hàng ở tầng trệt
   * Cách văn phòng 6 phút
@@ -42,7 +42,7 @@ Chúng ta cùng bắt đầu nào!
   * Tải ứng dụng và nhập thông tin thẻ tín dụng để sử dụng
   * Nhớ thắt dây an toàn khi ngồi ở ghế trước (và cả ghế sau nếu đi Waymo)
   * Waymo
-    * <details><summary>Waymo đang rẽ</summary><video src="https://github.com/user-attachments/assets/93909fa9-ec83-4762-ab0c-61ca36c9c6f5" controls="controls"></video></details>
+    * <details><summary>Waymo đang rẽ</summary><video src="https://github.com/user-attachments/assets/a1484767-f946-4677-98f2-9b6aa3b6a8d4" controls="controls"></video></details>
     * Dịch vụ xe [điện] tự lái của Google
     * Có mặt ở hầu hết khu vực Phoenix-Scottsdale–Tempe-Mesa
     * Hầu như luôn có giá tốt nhất so với các dịch vụ khác
@@ -55,7 +55,7 @@ Chúng ta cùng bắt đầu nào!
     * Nếu thẻ của bạn bị trừ tiền khi sử dụng voucher Uber, đó thường chỉ là một khoản tạm giữ sẽ được hoàn lại sau chuyến đi.
 
 * Xe tay ga (scooter) điện (Lime/Spin/Bird)
-  * <details><summary>Đi xe Lime</summary><video src="https://github.com/user-attachments/assets/01f0e4d6-753e-4e17-a07d-b627d8490f13" controls="controls"></video></details>
+  * <details><summary>Đi xe Lime</summary><video src="https://github.com/user-attachments/assets/377b6058-4ef0-482f-934c-2b48914e12e0" controls="controls"></video></details>
   * Tải ứng dụng và nhập thông tin thẻ tín dụng để sử dụng
   * Bạn có thể đặt điện thoại vào giá đỡ điện thoại
   * Lime
@@ -63,7 +63,7 @@ Chúng ta cùng bắt đầu nào!
     * Voucher Uber không áp dụng cho việc thuê xe Lime.
 
 * Xe đạp
-  * <details><summary>Đi xe đạp - sử dụng đèn báo HAWK</summary><video src="https://github.com/user-attachments/assets/42cf23f1-6a3e-474c-a6d5-676df006a28a" controls="controls"></video></details>
+  * <details><summary>Đi xe đạp - sử dụng đèn báo HAWK</summary><video src="https://github.com/user-attachments/assets/627d5022-bb9f-46e3-8032-ae42e835dc3d" controls="controls"></video></details>
   * Được tài trợ bởi Paradox 🎉
   * Đi trong làn đường dành cho xe đạp hoặc trên vỉa hè
   * Trên vỉa hè (ở Scottsdale): bạn có thể đi theo cả hai hướng, nhưng phải nhường đường cho người đi bộ
@@ -77,12 +77,12 @@ Chúng ta cùng bắt đầu nào!
   * Đi bộ qua đường không đúng nơi quy định (jaywalking) không phải là bất hợp pháp, vì vậy cứ 🚶; nhưng cố gắng sử dụng lối sang đường khi có thể
 
 * Tàu điện Valley Metro (và xe buýt)
-  * <img src="https://github.com/user-attachments/assets/9190d243-f7d3-4d41-9511-a048a90c87fd" width="25%">
+  * <img src="https://github.com/user-attachments/assets/896adc77-265d-4a99-80c7-4989f564ed3b" width="25%">
   * Tàu điện nhẹ kết nối trung tâm Phoenix, Tempe, và Mesa -- thích hợp cho việc khám phá
   * Tải ứng dụng Valley Metro, thêm thẻ tín dụng và nạp $4, đủ để đi không giới hạn cả ngày
   * Lưu ý: luôn quét vé trước khi lên tàu; việc kiểm tra vé vẫn diễn ra
 * Máy bay
-  * <img src="https://github.com/user-attachments/assets/8920c027-5bee-4ad1-bfa0-b0634acda73a" width="25%">
+  * <img src="https://github.com/user-attachments/assets/ab01466c-f748-4197-8312-9a0984d4bb88" width="25%">
   * Để bay đến các tiểu bang khác
   * Đặt vé: tìm chuyến bay trên Google Flights (https://www.google.com/travel/flights), sau đó đặt trực tiếp qua trang web hoặc ứng dụng của hãng hàng không
   * Tìm nhà ga trước khi đặt Uber đến sân bay [PHX]
@@ -299,7 +299,7 @@ Chúng ta cùng bắt đầu nào!
 * Đạp xe/chạy bộ
 
 * Leo núi – Đường mòn Công viên Papago & Hole in the Rock
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3e0e7779-3762-45a6-8099-32de81322a02" width="50%"><img src="https://github.com/user-attachments/assets/01f51eb2-6e99-494d-b02d-2c8e0608f9a4" width="50%">
+  * <img src="https://github.com/user-attachments/assets/029c6a86-7761-404c-91b6-c250d21994b8" width="50%"><img src="https://github.com/user-attachments/assets/8f87b951-0350-4a0a-8c8e-689222e52395" width="50%">
   * Địa điểm: [625 N Galvin Pkwy, Phoenix, AZ 85008, Hoa Kỳ](https://maps.app.goo.gl/CK2m92hDtzeC3Qc18) (nhiều điểm bắt đầu đường mòn)
   * Mức độ khó: Dễ
   * Đường mòn: Nhiều lựa chọn
@@ -327,8 +327,8 @@ Chúng ta cùng bắt đầu nào!
     * Hướng dẫn: [Đường mòn Công viên Papago | Thành phố Phoenix](https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/papago-park/papago-trails.html)
 
 * Leo núi - Camelback
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/a7372d16-da4e-4e61-adb5-0c7a1ee3d936" width="50%">
-  * <details><summary>Quang cảnh từ đỉnh Camelback</summary><video src="https://github.com/user-attachments/assets/de81f890-ebc5-49ca-91f5-3b162261ed1e" controls="controls"></video></details>
+  * <img src="https://github.com/user-attachments/assets/ccc5c4a5-84b0-4126-992f-e7a0fd774a99" width="50%">
+  * <details><summary>Quang cảnh từ đỉnh Camelback</summary><video src="https://github.com/user-attachments/assets/20fd097f-bb1c-479f-b8d4-36509e345aab" controls="controls"></video></details>
   * Địa điểm: [Phoenix, AZ 85018, Hoa Kỳ](https://maps.app.goo.gl/pZQZ2cxAtu7cY5PX8)
   * Mức độ khó: Cực kỳ khó, thử thách (không khuyến khích cho người mới bắt đầu hoặc trẻ nhỏ)
   * Đường mòn: 2 đường mòn chính
@@ -354,7 +354,7 @@ Chúng ta cùng bắt đầu nào!
     * Hướng dẫn: [Leo núi & Đạp xe Camelback | Leo đường mòn Echo Canyon & Đường mòn Cholla](https://www.visitphoenix.com/sonoran-desert/parks/camelback-mountain/)
 
 * Leo núi – Pinnacle Peak
-  * <details><summary>Leo núi đường mòn Pinnacle Peak</summary><video src="https://github.com/user-attachments/assets/ed27b907-4334-449f-ac26-98bc5da54d8a" controls="controls" width="320px"></video></details>
+  * <details><summary>Leo núi đường mòn Pinnacle Peak</summary><video src="https://github.com/user-attachments/assets/f941bb2b-0e53-45b4-982f-874b39bd636b" controls="controls" width="320px"></video></details>
   * Địa điểm: [Scottsdale, AZ 85262, Hoa Kỳ](https://maps.app.goo.gl/9fZtHy2EU5iUafuY8)
     * Chỉ đường: https://maps.app.goo.gl/fiUfJ51RnaFGiKs88
   * Mức độ khó: Dễ đến trung bình
@@ -398,8 +398,8 @@ Chúng ta cùng bắt đầu nào!
     * Hướng dẫn: [Leo núi Piestewa Peak | Mọi thứ bạn cần biết](https://gohikeaz.com/piestewa-peak-hike/)
 
 * Leo núi – Đường mòn Tom’s Thumb
-  * <img src="https://github.com/user-attachments/assets/cc92d7aa-0f81-48b2-9319-5390f1ec7c43" width="25%">
-  * <details><summary>Tom’s Thumb</summary><video src="https://github.com/user-attachments/assets/c4e0d74c-8f84-4f5d-91a9-955ea01024c2" controls="controls"></video></details>
+  * <img src="https://github.com/user-attachments/assets/6626cea6-721e-4d20-9837-148a99aed1aa" width="25%">
+  * <details><summary>Tom’s Thumb</summary><video src="https://github.com/user-attachments/assets/102521e8-3cda-4fce-98e0-2be48e2ae997" controls="controls"></video></details>
   * Địa điểm: [Đường mòn Tom's Thumb, Scottsdale, AZ 85255, Hoa Kỳ](https://maps.app.goo.gl/3zjDAuMtfTLgCUp67)
     * Chỉ đường: https://maps.app.goo.gl/r1kScdoTK6ke8Kaa9
   * Mức độ khó: Trung bình đến khó (thử thách đối với một số người, đặc biệt là dặm đầu tiên)
@@ -423,7 +423,7 @@ Chúng ta cùng bắt đầu nào!
     * Hướng dẫn: [Đường mòn Tom’s Thumb ở Scottsdale- Tất cả những gì bạn cần biết](https://thekarabou.com/tom-s-thumb/)
 
 * Leo núi – Đường mòn Vòng Gateway
-  * <details><summary>Leo núi Đường mòn Vòng Gateway từ điểm bắt đầu</summary><video src="https://github.com/user-attachments/assets/bab8b033-1463-4763-9d7d-1123f8b1cc23" controls="controls"></video></details>
+  * <details><summary>Leo núi Đường mòn Vòng Gateway từ điểm bắt đầu</summary><video src="https://github.com/user-attachments/assets/8f4abc38-1f7c-4bcc-911a-a22d1955f6e1" controls="controls"></video></details>
   * Địa điểm: [Scottsdale, AZ 85255, Hoa Kỳ](https://maps.app.goo.gl/YjpU1nrjaAMwSUU96)
     * Chỉ đường: https://maps.app.goo.gl/nkdstybossowh9fb6
   * Mức độ khó: Trung bình
@@ -491,13 +491,13 @@ Chúng ta cùng bắt đầu nào!
   * Địa điểm: [9500 East Vía de Ventura Suite A-100, Scottsdale, AZ 85256, Hoa Kỳ](https://goo.gl/maps/HSnFg5fVnNtLttqd8)
   * Phí: $$
   * Có thể đặt vé trực tuyến - https://www.odyseaaquarium.com/
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/c0e6a866-1157-49e2-851a-c83ef9dde3d9" width="25%">
+  * <img src="https://github.com/user-attachments/assets/ad4ed81f-e3aa-40f3-af2c-38c58322b123" width="25%">
 
 * Sở thú Phoenix
   * Địa điểm: [455 N Galvin Pkwy, Phoenix, AZ 85008, Hoa Kỳ](https://goo.gl/maps/aSJCmfMzTP1y5sry5)
   * Phí: $$
   * Có thể đặt vé trực tuyến - https://www.phoenixzoo.org/visit/
-  * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/3a9da41a-9707-4445-9c6e-87840fc3f873" width="25%"> :flushed:
+  * <img src="https://github.com/user-attachments/assets/f1a6ff51-1a6c-40ff-849e-d49c5eb6e763" width="25%"> :flushed:
 
 * Bảo tàng Ảo giác Scottsdale
   * Địa điểm: [9500 East Vía de Ventura, Scottsdale, AZ 85256, Hoa Kỳ](https://maps.app.goo.gl/sJK3akZta6RBCnFT6)
@@ -505,7 +505,7 @@ Chúng ta cùng bắt đầu nào!
   * Có thể đặt vé trực tuyến - http://www.moiscottsdale.com/
 
 * Tempe Marketplace
-  * <img src="https://github.com/user-attachments/assets/c35d8f72-6939-4a82-b607-b42abeaa7f9e" width="25%"><img src="https://github.com/user-attachments/assets/fc0a62e1-ff0d-4961-8fb1-bc7f8ecda3b5" width="25%">
+  * <img src="https://github.com/user-attachments/assets/ea32ef7c-86dc-46ed-8272-59ba29eb1c37" width="25%"><img src="https://github.com/user-attachments/assets/8a3b0c69-9b73-446a-8117-8ed18ffb7419" width="25%">
   * Địa điểm: [2000 E Rio Salado Pkwy, Tempe, AZ 85281, Hoa Kỳ](https://goo.gl/maps/jRm2TJf38BAqiARA9)
   * Trung tâm mua sắm ngoài trời với các nhà bán lẻ quốc gia, nhà hàng, nhạc sống vào cuối tuần & đài phun nước vui chơi cho trẻ em
   * Hoạt động chính
@@ -522,8 +522,8 @@ Chúng ta cùng bắt đầu nào!
     * Giải trí: Rạp chiếu phim Harkins, các sự kiện đặc biệt (ví dụ: Tết Nguyên Đán), trung tâm thể dục sang trọng và đi dạo trong các khu mua sắm sang trọng
 
 * Phố Cổ Scottsdale
-  * <img src="https://github.com/user-attachments/assets/31d4507c-6ed0-4949-adf2-4e79e462ab0e" width="25%">
-  * <details><summary>Một góc Phố Cổ Scottsdale</summary><video src="https://github.com/user-attachments/assets/a95997f3-79ad-41d6-886d-a9230aa08e22" controls="controls"></video></details>
+  * <img src="https://github.com/user-attachments/assets/f6b9a48e-f0e5-4550-8219-082e5b4a9a5d" width="25%">
+  * <details><summary>Một góc Phố Cổ Scottsdale</summary><video src="https://github.com/user-attachments/assets/c191c28b-9544-4894-9c0a-375583b6147b" controls="controls"></video></details>
   * Địa điểm: [Phố Cổ Scottsdale, Scottsdale, AZ 85281, Hoa Kỳ](https://maps.app.goo.gl/N9owM729efWmGVRm8)
   * Hoạt động chính
     * Mua sắm: đồ lưu niệm, đồ nghệ thuật
@@ -533,7 +533,7 @@ Chúng ta cùng bắt đầu nào!
     * Đi dạo
   
 * Trung tâm Mesa
-  * <details><summary>Một ngôi đền ở Trung tâm Mesa</summary><video src="https://github.com/user-attachments/assets/91ec750b-5934-4982-8bc8-0cbac1797fc2" controls="controls"></video></details>
+  * <details><summary>Một ngôi đền ở Trung tâm Mesa</summary><video src="https://github.com/user-attachments/assets/b775397a-94bd-4d43-8f53-8ab3557f35a3" controls="controls"></video></details>
   * Một phần của Hành lang Tàu điện ngầm Valley Metro
   * Địa điểm: [Trung tâm Mesa, Mesa, AZ, Hoa Kỳ](https://maps.app.goo.gl/L5nvFDf4NvY2HyMa7)
   * Khung cảnh nghệ thuật sôi động
@@ -564,9 +564,9 @@ Chúng ta cùng bắt đầu nào!
     * Các tác phẩm nghệ thuật công cộng: Các bức tranh tường và tác phẩm điêu khắc khắp khu vực
   * Giáo dục & Cộng đồng
     * Đại học Bang Arizona (ASU): Ảnh hưởng lớn với đời sống sinh viên, nghiên cứu và các sự kiện
-    * <img src="https://github.com/user-attachments/assets/d87b2a15-8802-4d38-b634-b7b4bd5e32aa" width="25%">
+    * <img src="https://github.com/user-attachments/assets/e7f516da-8416-4782-8e81-1971d9872165" width="25%">
     * Lễ hội: Các sự kiện thường niên như Lễ hội Nghệ thuật Tempe và Lễ hội Aloha Arizona
-    * <img src="https://github.com/user-attachments/assets/aa8b84ac-f805-481a-9d70-3e3349b770c7" width="50%">
+    * <img src="https://github.com/user-attachments/assets/f78ee8a2-2253-4df5-989f-1ba7f8c80bf3" width="50%">
 
 * Trung tâm Phoenix
   * Một phần của Hành lang Tàu điện ngầm Valley Metro
@@ -581,20 +581,20 @@ Chúng ta cùng bắt đầu nào!
     * Roosevelt Row: Khu nghệ thuật với các phòng trưng bày, tranh tường và các buổi đi dạo nghệ thuật vào Thứ Sáu đầu tiên của tháng
     * Bảo tàng Nghệ thuật Phoenix: Bảo tàng nghệ thuật lớn nhất ở Tây Nam
   * Kinh doanh & Giao thông
-    * <img src="https://github.com/user-attachments/assets/1dd425b4-4ae6-41ce-8708-4618c333cf33" width="25%">
+    * <img src="https://github.com/user-attachments/assets/9b9b7cd8-bfde-47dd-aa77-1b7ae310e11f" width="25%">
     * Văn phòng Công ty: Các công ty lớn và tòa nhà chính phủ
     * Trung tâm Giao thông: Tàu điện nhẹ kết nối với Tempe, Mesa và các khu vực xa hơn
-    * <details><summary>Tàu điện nhẹ chạy qua Trung tâm Phoenix</summary><video src="https://github.com/user-attachments/assets/a0a1f009-7094-416b-9dbf-ea22585e942a" controls="controls"></video></details>
+    * <details><summary>Tàu điện nhẹ chạy qua Trung tâm Phoenix</summary><video src="https://github.com/user-attachments/assets/f072374f-0849-49f2-8762-edcfff7a515e" controls="controls"></video></details>
 
 * Sedona
-  * <details><summary>Trung tâm Sedona</summary><video src="https://github.com/user-attachments/assets/22fd2fcd-1d64-4380-b04a-469e50532b8c" controls="controls"></video></details>
+  * <details><summary>Trung tâm Sedona</summary><video src="https://github.com/user-attachments/assets/51e310c7-f2cf-4f0a-b2c5-334b0e7720f0" controls="controls"></video></details>
   * Địa điểm: [Sedona, Arizona 86336](https://maps.app.goo.gl/xqKapGSrQttcN6EEA)
 
 * Flagstaff
   * Địa điểm: [Flagstaff, Arizona, Hoa Kỳ](https://maps.app.goo.gl/iMthy7MTPeNwdomG6)
 
 * Grand Canyon
-  * <details><summary>Grand Canyon nhìn từ trên cao</summary><video src="https://github.com/user-attachments/assets/1f8c4432-645c-4226-9224-4dfc42381788" controls="controls"></video></details>
+  * <details><summary>Grand Canyon nhìn từ trên cao</summary><video src="https://github.com/user-attachments/assets/b52f5867-a6d1-4858-a4ef-2438949cd9f0" controls="controls"></video></details>
   * Địa điểm: [Vườn Quốc gia Grand Canyon, Arizona](https://maps.app.goo.gl/7uAAinDURpXBS1xf9)
 
 * Ngoài Arizona
@@ -626,12 +626,12 @@ Chúng ta cùng bắt đầu nào!
     * Bạn không thể từ chối thanh toán phí phục vụ tự động vì đây là phí dịch vụ
     * Bạn có thể tip thêm vài đô la nếu dịch vụ tuyệt vời
   * Khi bạn thanh toán bằng thẻ tín dụng trong nhà hàng, quy trình diễn ra như sau
-    * Bạn yêu cầu nhân viên phục vụ mang hóa đơn (check/bill) - xem [Hội thoại cơ bản - Trong nhà hàng - Yêu cầu hóa đơn](#hội-thoại-cơ-bản)
+    * Bạn yêu cầu nhân viên phục vụ mang hóa đơn (check/bill) - xem [Hội thoại cơ bản - Trong nhà hàng - Yêu cầu hóa đơn](README.md/#basic-conversation)
     * Bạn nhận hóa đơn, kiểm tra các món hàng, và đặt thẻ của bạn lên đó
     * Nhân viên phục vụ sẽ lấy thẻ của bạn và quay lại với một biên lai và một cây bút
     * Bạn viết số tiền tip, tính tổng, và ký tên
     * Đừng quên lấy biên lai và/hoặc chụp ảnh lại trước khi rời đi
-    * <img src="https://github.com/prd-khoa-luu/arizona-stay/assets/81603101/2a8583cf-f906-4eb6-9c74-205e90e51b5c" width="50%">
+    * <img src="https://github.com/user-attachments/assets/f16859c6-4c1c-4ac7-b7b5-e05df4fe9e73" width="50%">
   * Đối với các dịch vụ khác
     * Cắt tóc/làm tóc: 15–20% hóa đơn
     * Hướng dẫn viên du lịch: đối với các tour địa phương, 5–10 đô la mỗi người cho nhóm nhỏ, 2–5 đô la cho nhóm lớn; đối với các tour cả ngày hoặc nhiều ngày, 8–10 đô la mỗi ngày mỗi người
@@ -685,10 +685,10 @@ Chúng ta cùng bắt đầu nào!
     * Nếu bạn dự đoán sẽ bị trễ, hãy thông báo cho tài xế qua ứng dụng hoặc gọi điện thoại.
     * Kiểm tra kỹ địa điểm đón của bạn. Sử dụng tính năng "ghi chú" nếu cần.
     * Hủy chuyến: Nếu bạn cần hủy chuyến, hãy hủy càng sớm càng tốt. Lưu ý rằng hủy quá muộn có thể bị tính phí.
-  * Chào hỏi & cảm ơn: xem [Hội thoại cơ bản - Trong xe Uber](#hội-thoại-cơ-bản)
+  * Chào hỏi & cảm ơn: xem [Hội thoại cơ bản - Trong xe Uber](README.md/#basic-conversation)
   * Trong suốt chuyến đi
     * Việc đầu tiên là luôn thắt dây an toàn
-    * Ngồi ở ghế sau trừ khi xe đã đầy. Nếu bạn thích ngồi ghế trước, hãy hỏi tài xế xem có được không -- [Hội thoại cơ bản - Trong xe Uber](#hội-thoại-cơ-bản).
+    * Ngồi ở ghế sau trừ khi xe đã đầy. Nếu bạn thích ngồi ghế trước, hãy hỏi tài xế xem có được không -- [Hội thoại cơ bản - Trong xe Uber](README.md/#basic-conversation).
   * Tiền tip & đánh giá
     * Tiền tip không được mong đợi nhiều như ở nhà hàng, nhưng nên làm để tránh bị tài xế đánh giá lại thấp. $1-$2 cho các chuyến đi ngắn, còn hơn thì 10-15% tiền phí.
     * Hãy cho 5 sao nếu chuyến đi suôn sẻ và không có vấn đề gì
@@ -725,7 +725,7 @@ Chúng ta cùng bắt đầu nào!
   * Chia đều hoặc theo món: Đối với các đơn hàng tương tự, hãy chia đều
   * Tiền mặt là dễ nhất: Mang theo tiền lẻ để việc chia tiền đơn giản
 * Thuế bán hàng: Dự kiến thuế bán hàng từ 8–10% sẽ được cộng vào khi thanh toán, không hiển thị trên thẻ giá hoặc thực đơn
-  * <img src="https://github.com/user-attachments/assets/4bc35a74-fe90-406d-9643-eae1e9ca4016" width="25%">
+  * <img src="https://github.com/user-attachments/assets/23c3ceb4-65a1-4e55-8a1a-c9835b8bfe26" width="25%">
   * Lưu ý: Hàng tạp hóa thường bị đánh thuế ở mức thấp hơn so với các hàng hóa khác.
 * Quy tắc ước tính giá cuối cùng (so với giá niêm yết)
 
